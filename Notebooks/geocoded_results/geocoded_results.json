@@ -1,0 +1,4992 @@
+[{
+    "original_address": "365 W Passaic St, Rochelle Park, NJ 7662",
+    "latitude": 40.91796186851646,
+    "longitude": -74.08474808893955,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New Jersey",
+        "county": "Bergen County",
+        "city": "Rochelle Park",
+        "postcode": "07662",
+        "street": "West Passaic Street",
+        "housenumber": "365",
+        "lon": -74.08474808893955,
+        "lat": 40.91796186851646,
+        "state_code": "NJ",
+        "result_type": "building",
+        "formatted": "365 West Passaic Street, Rochelle Park, NJ 07662, United States of America",
+        "address_line1": "365 West Passaic Street",
+        "address_line2": "Rochelle Park, NJ 07662, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G7WW98+54",
+        "plus_code_short": "98+54 Rochelle Park, Bergen County, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 4.994423094735395,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5135993f836c8552c0596a2046c67f754440f00102f901723c422b00000000c00203"
+    }
+},
+{
+    "original_address": "3625 Del Amo Blvd, Torrance, CA 90503",
+    "latitude": 33.84865124489796,
+    "longitude": -118.34992257142858,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Los Angeles County",
+        "city": "Torrance",
+        "postcode": "90503",
+        "street": "Del Amo Boulevard",
+        "housenumber": "3625",
+        "lon": -118.34992257142858,
+        "lat": 33.84865124489796,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "3625 Del Amo Boulevard, Torrance, CA 90503, United States of America",
+        "address_line1": "3625 Del Amo Boulevard",
+        "address_line2": "Torrance, CA 90503, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8553RMX2+F2",
+        "plus_code_short": "X2+F2 Torrance, Los Angeles County, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.9366300545445405,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51c01aa42165965dc059f1459f9aa0ec4040f00102f901b74db91700000000c00203"
+    }
+},
+{
+    "original_address": "1099 Wall St W, Lyndhurst, NJ 7071",
+    "latitude": 40.80622570469799,
+    "longitude": -74.10358439597316,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New Jersey",
+        "county": "Bergen County",
+        "city": "Lyndhurst",
+        "postcode": "07071",
+        "street": "Wall Street West",
+        "housenumber": "1099",
+        "lon": -74.10358439597316,
+        "lat": 40.80622570469799,
+        "state_code": "NJ",
+        "result_type": "building",
+        "formatted": "1099 Wall Street West, Lyndhurst, NJ 07071, United States of America",
+        "address_line1": "1099 Wall Street West",
+        "address_line2": "Lyndhurst, NJ 07071, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G7RV4W+FH",
+        "plus_code_short": "RV4W+FH, 07071 Lyndhurst, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 5.293425970537243,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5129457220a18652c059ab6f656732674440f00102f9017ddd912200000000c00203"
+    }
+},
+{
+    "original_address": "299 Park Ave, New York, NY 10171",
+    "latitude": 40.75604,
+    "longitude": -73.974448,
+    "geoapify_response": {
+        "country_code": "us",
+        "housenumber": "299",
+        "street": "Park Avenue",
+        "country": "United States",
+        "county": "New York County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "10171",
+        "state": "New York",
+        "city": "New York",
+        "district": "Manhattan",
+        "suburb": "Midtown East",
+        "state_code": "NY",
+        "lon": -73.974448,
+        "lat": 40.75604,
+        "result_type": "building",
+        "formatted": "299 Park Avenue, New York, NY 10171, United States of America",
+        "address_line1": "299 Park Avenue",
+        "address_line2": "New York, NY 10171, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q24G+C6",
+        "plus_code_short": "Q24G+C6 New York, New York County, United States",
+        "rank": {
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51c4e9245b5d7e52c059e23b31ebc5604440c00203e2034c6f70656e6164647265737365733a616464726573733a75732f6e792f636974795f6f665f6e65775f796f726b2d6164647265737365732d636974793a36303135663661366262343231326663"
+    }
+},
+{
+    "original_address": "3000 Gulf To Bay Blvd, Clearwater, FL 33759",
+    "latitude": 27.960749,
+    "longitude": -82.712518,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Florida",
+        "county": "Pinellas County",
+        "city": "Clearwater",
+        "hamlet": "Bayview",
+        "postcode": "33759",
+        "street": "Gulf to Bay Boulevard",
+        "housenumber": "3000",
+        "lon": -82.712518,
+        "lat": 27.960749,
+        "state_code": "FL",
+        "result_type": "building",
+        "formatted": "3000 Gulf to Bay Boulevard, Clearwater, FL 33759, United States of America",
+        "address_line1": "3000 Gulf to Bay Boulevard",
+        "address_line2": "Clearwater, FL 33759, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76VVX76P+7X",
+        "plus_code_short": "X76P+7X, 33759 Clearwater, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 4.432224973160604,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51edf318e599ad54c0592aaa7ea5f3f53b40f00102f9014a02030500000000c00203"
+    }
+},
+{
+    "original_address": "2911 Turtle Creek Blvd, Dallas, TX 75219",
+    "latitude": 32.8041943,
+    "longitude": -96.80602628829332,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "district": "Oak Lawn",
+        "street": "Turtle Creek Boulevard",
+        "housenumber": "2911",
+        "lon": -96.80602628829332,
+        "lat": 32.8041943,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "2911 Turtle Creek Boulevard, Dallas, TX 75219, United States of America",
+        "address_line1": "2911 Turtle Creek Boulevard",
+        "address_line2": "Dallas, TX 75219, United States of America",
+        "category": "building.commercial",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R53V+MH",
+        "plus_code_short": "R53V+MH, 75219 Dallas, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 6.29433135848251,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51e9fb48ef953358c0599710bdd6ef664040f00102f901bc472c1c00000000c00203"
+    }
+},
+{
+    "original_address": "600 City Pky W, Orange, CA 92868",
+    "latitude": 33.783073249340994,
+    "longitude": -117.89640622881369,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Orange County",
+        "city": "Orange",
+        "postcode": "92868",
+        "suburb": "Outlets at Orange",
+        "street": "City Parkway West",
+        "housenumber": "600",
+        "lon": -117.89640622881369,
+        "lat": 33.783073249340994,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "600 City Parkway West, Orange, CA 92868, United States of America",
+        "address_line1": "600 City Parkway West",
+        "address_line2": "Orange, CA 92868, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8554Q4M3+6C",
+        "plus_code_short": "Q4M3+6C, 92868 Orange, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 5.5650130362124095,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51df2b3bb85e795dc059612586be3be44040f00102f901a0f8cb0000000000c00203"
+    }
+},
+{
+    "original_address": "555 W Beech St, San Diego, CA 92101",
+    "latitude": 32.720656,
+    "longitude": -117.167832,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "postcode": "92101",
+        "district": "Little Italy",
+        "suburb": "Banker's Hill",
+        "street": "West Beech Street",
+        "housenumber": "555",
+        "lon": -117.167832,
+        "lat": 32.720656,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "555 West Beech Street, San Diego, CA 92101, United States of America",
+        "address_line1": "555 West Beech Street",
+        "address_line2": "San Diego, CA 92101, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8544PRCJ+7V",
+        "plus_code_short": "CJ+7V, 92101 San Diego, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 6.735111319364156,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "513ace6dc2bd4a5dc05945d5af743e5c4040f00103f901f2688f2300000000c00203"
+    }
+},
+{
+    "original_address": "595 Madison Ave, New York, NY 10022",
+    "latitude": 40.762442,
+    "longitude": -73.9720675,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10022",
+        "district": "Manhattan",
+        "neighbourhood": "Midtown East",
+        "street": "Madison Avenue",
+        "housenumber": "595",
+        "lon": -73.9720675,
+        "lat": 40.762442,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "595 Madison Avenue, New York, NY 10022, United States of America",
+        "address_line1": "595 Madison Avenue",
+        "address_line2": "New York, NY 10022, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q26H+X5",
+        "plus_code_short": "Q26H+X5 New York, New York County, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5149809a5a367e52c059658c0fb397614440f00103f901b9b688a100000000c00203"
+    }
+},
+{
+    "original_address": "2500 Sand Hill Rd, Menlo Park, CA 94025",
+    "latitude": 37.4217876,
+    "longitude": -122.20479012655137,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "San Mateo County",
+        "city": "Menlo Park",
+        "postcode": "94028",
+        "street": "Sand Hill Road",
+        "housenumber": "2500",
+        "lon": -122.20479012655137,
+        "lat": 37.4217876,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "2500 Sand Hill Road, Menlo Park, CA 94028, United States of America",
+        "address_line1": "2500 Sand Hill Road",
+        "address_line2": "Menlo Park, CA 94028, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "849VCQCW+P3",
+        "plus_code_short": "CQCW+P3 Menlo Park, San Mateo County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.498576088341603,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "513d050c481b8d5ec059deedd522fdb54240f00102f9015c49d50100000000c00203"
+    }
+},
+{
+    "original_address": "13100 Wortham Center Dr, Houston, TX 77065",
+    "latitude": 29.920594649999998,
+    "longitude": -95.61547791294694,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Harris County",
+        "postcode": "77065",
+        "street": "Wortham Center Drive",
+        "housenumber": "13100",
+        "lon": -95.61547791294694,
+        "lat": 29.920594649999998,
+        "state_code": "TX",
+        "result_type": "building",
+        "city": "Houston",
+        "formatted": "13100 Wortham Center Drive, Houston, TX 77065, United States of America",
+        "address_line1": "13100 Wortham Center Drive",
+        "address_line2": "Houston, TX 77065, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "76X6W9CM+6R",
+        "plus_code_short": "W9CM+6R, 77065 Houston, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.946297311976456,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "511ee178fd63e757c059609f4a17aceb3d40f00102f901261c112700000000c00203"
+    }
+},
+{
+    "original_address": "2800 N Central Ave, Phoenix, AZ 85004",
+    "latitude": 33.478834899999995,
+    "longitude": -112.07425434447393,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arizona",
+        "county": "Maricopa County",
+        "city": "Phoenix",
+        "postcode": "85003",
+        "suburb": "Encanto",
+        "street": "North Central Avenue",
+        "housenumber": "2800",
+        "lon": -112.07425434447393,
+        "lat": 33.478834899999995,
+        "state_code": "AZ",
+        "result_type": "building",
+        "formatted": "2800 North Central Avenue, Phoenix, AZ 85003, United States of America",
+        "address_line1": "2800 North Central Avenue",
+        "address_line2": "Phoenix, AZ 85003, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Phoenix",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MST"
+        },
+        "plus_code": "8559FWHG+G7",
+        "plus_code_short": "FWHG+G7, 85003 Phoenix, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.917601061307703,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "517e464b95c0045cc0597ad745764abd4040f00102f90164bd9a0800000000c00203"
+    }
+},
+{
+    "original_address": "269-299 Bassett St, San Jose, CA 95110",
+    "latitude": 37.3391153,
+    "longitude": -121.9003916,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Santa Clara County",
+        "city": "San Jose",
+        "postcode": "95110",
+        "suburb": "Japantown",
+        "commercial": "River Corporate Center",
+        "street": "Bassett Street",
+        "housenumber": "269",
+        "lon": -121.9003916,
+        "lat": 37.3391153,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "269 Bassett Street, San Jose, CA 95110, United States of America",
+        "address_line1": "269 Bassett Street",
+        "address_line2": "San Jose, CA 95110, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "849W83QX+JR",
+        "plus_code_short": "QX+JR San Jose, Santa Clara County, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 6.501744192135637,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51f6e51604a0795ec0596089512168ab4240f00103f901981a803f02000000c00203"
+    }
+},
+{
+    "original_address": "940 Wadsworth Blvd, Lakewood, CO 80214",
+    "latitude": 39.7317155,
+    "longitude": -105.08102672460467,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "county": "Jefferson County",
+        "city": "Lakewood",
+        "postcode": "80214",
+        "street": "Wadsworth Boulevard",
+        "housenumber": "940",
+        "lon": -105.08102672460467,
+        "lat": 39.7317155,
+        "state_code": "CO",
+        "result_type": "building",
+        "formatted": "940 Wadsworth Boulevard, Lakewood, CO 80214, United States of America",
+        "address_line1": "940 Wadsworth Boulevard",
+        "address_line2": "Lakewood, CO 80214, United States of America",
+        "category": "building.office",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-06:00",
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FPPWJ9+MH",
+        "plus_code_short": "PWJ9+MH, 80214 Lakewood, United States",
+        "rank": {
+            "importance": 0.21000999999999997,
+            "popularity": 4.5788738359739325,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51dc11b78a2f455ac059f73c7fdaa8dd4340f00102f90173e94f1500000000c00203"
+    }
+},
+{
+    "original_address": "33 Broad St, Boston, MA 2109",
+    "latitude": 42.3584376,
+    "longitude": -71.05446187616428,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "city": "Boston",
+        "postcode": "02109",
+        "suburb": "Downtown Boston",
+        "street": "Broad Street",
+        "housenumber": "33",
+        "lon": -71.05446187616428,
+        "lat": 42.3584376,
+        "state_code": "MA",
+        "result_type": "building",
+        "formatted": "33 Broad Street, Boston, MA 02109, United States of America",
+        "address_line1": "33 Broad Street",
+        "address_line2": "Boston, MA 02109, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87JC9W5W+96",
+        "plus_code_short": "5W+96, 02109 Boston, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 8.536661234137748,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "514840aa4d7cc351c05910d48448e12d4540f00102f901a1fa5c1800000000c00203"
+    }
+},
+{
+    "original_address": "4300 N Miller Rd, Scottsdale, AZ 85251",
+    "latitude": 33.4980276,
+    "longitude": -111.9182514,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arizona",
+        "county": "Maricopa County",
+        "city": "Scottsdale",
+        "postcode": "85251",
+        "street": "North Miller Road",
+        "housenumber": "4300",
+        "lon": -111.9182514,
+        "lat": 33.4980276,
+        "state_code": "AZ",
+        "result_type": "building",
+        "formatted": "4300 North Miller Road, Scottsdale, AZ 85251, United States of America",
+        "address_line1": "4300 North Miller Road",
+        "address_line2": "Scottsdale, AZ 85251, United States of America",
+        "timezone": {
+            "name": "America/Phoenix",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MST"
+        },
+        "plus_code": "855CF3XJ+6M",
+        "plus_code_short": "F3XJ+6M Scottsdale, Maricopa County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 5.2939869262276265,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51662085a1c4fa5bc059b0404f5ebfbf4040f00103f9011beb138f02000000c00203"
+    }
+},
+{
+    "original_address": "4250 Congress St, Charlotte, NC 28209",
+    "latitude": 35.155244235087764,
+    "longitude": -80.83763612511895,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "North Carolina",
+        "county": "Mecklenburg County",
+        "city": "Charlotte",
+        "postcode": "28209",
+        "suburb": "Parkdale",
+        "street": "Congress Street",
+        "housenumber": "4250",
+        "lon": -80.83763612511895,
+        "lat": 35.155244235087764,
+        "state_code": "NC",
+        "result_type": "building",
+        "formatted": "4250 Congress Street, Charlotte, NC 28209, United States of America",
+        "address_line1": "4250 Congress Street",
+        "address_line2": "Charlotte, NC 28209, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "867X5546+3W",
+        "plus_code_short": "5546+3W, 28209 Charlotte, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.474131122991715,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5161d58cd49b3554c059184c080bdf934140f00102f901af36e64400000000c00203"
+    }
+},
+{
+    "original_address": "10101 Harwin Dr, Houston, TX 77036",
+    "latitude": 29.718171,
+    "longitude": -95.543313,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Harris County",
+        "city": "Houston",
+        "postcode": "77036",
+        "district": "Chinatown",
+        "street": "Harwin Drive",
+        "housenumber": "10101",
+        "lon": -95.543313,
+        "lat": 29.718171,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "10101 Harwin Drive, Houston, TX 77036, United States of America",
+        "address_line1": "10101 Harwin Drive",
+        "address_line2": "Houston, TX 77036, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "76X6PF94+7M",
+        "plus_code_short": "PF94+7M, 77036 Houston, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.484823675150068,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51779fe3a3c5e257c05985effd0ddab73d40f00102f9016e166d1900000000c00203"
+    }
+},
+{
+    "original_address": "2001 Siesta Dr, Sarasota, FL 34239",
+    "latitude": 27.30292866663801,
+    "longitude": -82.52967182358675,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Florida",
+        "county": "Sarasota County",
+        "city": "Sarasota",
+        "hamlet": "South Trail",
+        "postcode": "34239",
+        "district": "Granada",
+        "street": "Siesta Drive",
+        "housenumber": "2001",
+        "lon": -82.52967182358675,
+        "lat": 27.30292866663801,
+        "state_code": "FL",
+        "result_type": "building",
+        "formatted": "2001 Siesta Drive, Sarasota, FL 34239, United States of America",
+        "address_line1": "2001 Siesta Drive",
+        "address_line2": "Sarasota, FL 34239, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76VV8F3C+54",
+        "plus_code_short": "8F3C+54 Sarasota, Sarasota County, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.242735853678476,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51bdfaa524e6a154c0592c3bacbb8c4d3b40f00102f901e4991a0500000000c00203"
+    }
+},
+{
+    "original_address": "1228 15th St, Denver, CO 80202",
+    "latitude": 39.74777654426271,
+    "longitude": -104.9981265801312,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "district": "Theatre District",
+        "street": "15th Street",
+        "housenumber": "1228",
+        "lon": -104.9981265801312,
+        "lat": 39.74777654426271,
+        "state_code": "CO",
+        "result_type": "building",
+        "formatted": "1228 15th Street, Denver, CO 80202, United States of America",
+        "address_line1": "1228 15th Street",
+        "address_line2": "Denver, CO 80202, United States of America",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-06:00",
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FQP2X2+4P",
+        "plus_code_short": "X2+4P, 80202 Denver, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 7.4708716574761524,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51a3bb4e4ee13f5ac05981294d24b7df4340f00102f9014a31cd0700000000c00203"
+    }
+},
+{
+    "original_address": "18835 N Thompson Peak Pky, Scottsdale, AZ 85255",
+    "latitude": 33.6568323,
+    "longitude": -111.8663441,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "North Thompson Peak Parkway",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arizona",
+        "county": "Maricopa County",
+        "city": "Scottsdale",
+        "postcode": "85255",
+        "district": "DC Ranch",
+        "street": "North Thompson Peak Parkway",
+        "lon": -111.8663441,
+        "lat": 33.6568323,
+        "state_code": "AZ",
+        "housenumber": "18835",
+        "result_type": "building",
+        "formatted": "18835 North Thompson Peak Parkway, Scottsdale, AZ 85255, United States of America",
+        "address_line1": "18835 North Thompson Peak Parkway",
+        "address_line2": "Scottsdale, AZ 85255, United States of America",
+        "timezone": {
+            "name": "America/Phoenix",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MST"
+        },
+        "plus_code": "855CM44M+PF",
+        "plus_code_short": "M44M+PF Scottsdale, Maricopa County, United States",
+        "rank": {
+            "importance": 0.35334333333333334,
+            "popularity": 3.394193815944761,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "514925862e72f75bc0596dbaaf1413d44040c0020392031b4e6f7274682054686f6d70736f6e205065616b205061726b776179e203266f70656e6164647265737365733a616464726573733a30303432363637313833366239653362"
+    }
+},
+{
+    "original_address": "889 Elm St, Manchester, NH 3101",
+    "latitude": 42.99105,
+    "longitude": -71.462955,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New Hampshire",
+        "county": "Hillsborough County",
+        "city": "Manchester",
+        "postcode": "03101",
+        "street": "Elm Street",
+        "housenumber": "889",
+        "lon": -71.462955,
+        "lat": 42.99105,
+        "state_code": "NH",
+        "result_type": "building",
+        "formatted": "889 Elm Street, Manchester, NH 03101, United States of America",
+        "address_line1": "889 Elm Street",
+        "address_line2": "Manchester, NH 03101, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87JCXGRP+CR",
+        "plus_code_short": "RP+CR, 03101 Manchester, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.019220715740075,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "514221020ea1dd51c059b459f5b9da7e4540f00102f901ba3ead2d00000000c00203"
+    }
+},
+{
+    "original_address": "50 Hurt Plz SE, Atlanta, GA 30303",
+    "latitude": 33.75421001261522,
+    "longitude": -84.3875174644028,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Georgia",
+        "county": "Fulton County",
+        "city": "Atlanta",
+        "postcode": "30303",
+        "district": "Georgia State",
+        "suburb": "Old Fourth Ward",
+        "street": "Hurt Plaza Southeast",
+        "housenumber": "50",
+        "lon": -84.3875174644028,
+        "lat": 33.75421001261522,
+        "state_code": "GA",
+        "result_type": "building",
+        "formatted": "50 Hurt Plaza Southeast, Atlanta, GA 30303, United States of America",
+        "address_line1": "50 Hurt Plaza Southeast",
+        "address_line2": "Atlanta, GA 30303, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "865QQJ36+MX",
+        "plus_code_short": "36+MX, 30303 Atlanta, United States",
+        "rank": {
+            "importance": -0.94,
+            "popularity": 7.6115202252506275,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "514a0f0d16cd1855c059c23f25f489e04040f00102f901ff238d0000000000c00203"
+    }
+},
+{
+    "original_address": "200 Pine Ave, Long Beach, CA 90802",
+    "latitude": 33.76942,
+    "longitude": -118.192284,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Los Angeles County",
+        "city": "Long Beach",
+        "postcode": "90802",
+        "street": "Pine Avenue",
+        "housenumber": "200",
+        "lon": -118.192284,
+        "lat": 33.76942,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "200 Pine Avenue, Long Beach, CA 90802, United States of America",
+        "address_line1": "200 Pine Avenue",
+        "address_line2": "Long Beach, CA 90802, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8553QR95+Q3",
+        "plus_code_short": "95+Q3, 90802 Long Beach, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 6.21883311739497,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51d2e28c614e8c5dc059b471c45a7ce24040f00102f901b66eb91700000000c00203"
+    }
+},
+{
+    "original_address": "23-29 School St, Boston, MA 2108",
+    "latitude": 42.357718,
+    "longitude": -71.05890183333334,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "city": "Boston",
+        "postcode": "02108",
+        "district": "Downtown Crossing",
+        "suburb": "Downtown Boston",
+        "street": "School Street",
+        "housenumber": "23",
+        "lon": -71.05890183333334,
+        "lat": 42.357718,
+        "state_code": "MA",
+        "result_type": "building",
+        "formatted": "23 School Street, Boston, MA 02108, United States of America",
+        "address_line1": "23 School Street",
+        "address_line2": "Boston, MA 02108, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87JC9W5R+3C",
+        "plus_code_short": "5R+3C, 02108 Boston, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 8.536661234137748,
+            "confidence": 0.9,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 0.9,
+            "match_type": "full_match"
+        },
+        "place_id": "51d5f5310cc5c351c059639813b4c92d4540f00102f9012ccf830000000000c00203"
+    }
+},
+{
+    "original_address": "370 Lexington Ave, New York, NY 10017",
+    "latitude": 40.7508402,
+    "longitude": -73.9769205,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10017",
+        "district": "Manhattan",
+        "neighbourhood": "Murray Hill",
+        "street": "Lexington Avenue",
+        "housenumber": "370",
+        "lon": -73.9769205,
+        "lat": 40.7508402,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "370 Lexington Avenue, New York, NY 10017, United States of America",
+        "address_line1": "370 Lexington Avenue",
+        "address_line2": "New York, NY 10017, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q22F+86",
+        "plus_code_short": "Q22F+86 New York, New York County, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51b0928fdd857e52c059d4c21b881b604440f00103f901fcbbdee302000000c00203"
+    }
+},
+{
+    "original_address": "9380 Station St, Lone Tree, CO 80124",
+    "latitude": 39.545822,
+    "longitude": -104.870222,
+    "geoapify_response": {
+        "country_code": "us",
+        "housenumber": "9380",
+        "street": "Station Street",
+        "country": "United States",
+        "county": "Douglas County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "80124",
+        "state": "Colorado",
+        "city": "Lone Tree",
+        "state_code": "CO",
+        "lon": -104.870222,
+        "lat": 39.545822,
+        "result_type": "building",
+        "formatted": "9380 Station Street, Lone Tree, CO 80124, United States of America",
+        "address_line1": "9380 Station Street",
+        "address_line2": "Lone Tree, CO 80124, United States of America",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-06:00",
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FQG4WH+8W",
+        "plus_code_short": "G4WH+8W, 80124 Lone Tree, United States",
+        "rank": {
+            "popularity": 4.050095798320634,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "519f909db7b1375ac059fab7cb7eddc54340c00203e203466f70656e6164647265737365733a616464726573733a75732f636f2f7374617465776964652d6164647265737365732d73746174653a63306530373064303332316463653763"
+    }
+},
+{
+    "original_address": "40 Galesi Dr, Wayne, NJ 7470",
+    "latitude": 40.89810985,
+    "longitude": -74.24400843575961,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New Jersey",
+        "county": "Passaic County",
+        "city": "Wayne",
+        "postcode": "07470",
+        "street": "Galesi Drive",
+        "housenumber": "40",
+        "lon": -74.24400843575961,
+        "lat": 40.89810985,
+        "state_code": "NJ",
+        "result_type": "building",
+        "formatted": "40 Galesi Drive, Wayne, NJ 07470, United States of America",
+        "address_line1": "40 Galesi Drive",
+        "address_line2": "Wayne, NJ 07470, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G7VQX4+69",
+        "plus_code_short": "VQX4+69, 07470 Wayne, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 4.492364952446184,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5148e28ed59d8f52c05994fb7843f5724440f00102f901cd81722200000000c00203"
+    }
+},
+{
+    "original_address": "675 Town Square Blvd, Garland, TX 75040",
+    "latitude": 32.9543547,
+    "longitude": -96.6118188,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Appliance Repair by Asurion",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Garland",
+        "postcode": "75040",
+        "street": "Town Boulevard Lane",
+        "housenumber": "675",
+        "lon": -96.6118188,
+        "lat": 32.9543547,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Appliance Repair by Asurion, 675 Town Boulevard Lane, Garland, TX 75040, United States of America",
+        "address_line1": "Appliance Repair by Asurion",
+        "address_line2": "675 Town Boulevard Lane, Garland, TX 75040, United States of America",
+        "category": "commercial.elektronics",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X93Q+P7",
+        "plus_code_short": "X93Q+P7, 75040 Garland, United States",
+        "rank": {
+            "importance": 0.21000999999999997,
+            "popularity": 4.258675215061078,
+            "confidence": 0.9,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0.9,
+            "confidence_building_level": 0.9,
+            "match_type": "inner_part"
+        },
+        "place_id": "51fd440a0a282758c05957a4784b287a4040f00103f9013b24615202000000c0020192031b4170706c69616e6365205265706169722062792041737572696f6e"
+    }
+},
+{
+    "original_address": "1 S 450 Summit Ave, Oakbrook Terrace, IL 60181",
+    "latitude": 41.8576671,
+    "longitude": -87.9732257,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Le\u2019Flair Hair Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Illinois",
+        "county": "DuPage County",
+        "city": "Oakbrook Terrace",
+        "hamlet": "Utopia",
+        "postcode": "60181",
+        "street": "Summit Avenue",
+        "housenumber": "1s132",
+        "lon": -87.9732257,
+        "lat": 41.8576671,
+        "state_code": "IL",
+        "district": "York Township",
+        "result_type": "building",
+        "formatted": "Le\u2019Flair Hair Lounge, 1s132 Summit Avenue, Oakbrook Terrace, IL 60181, United States of America",
+        "address_line1": "Le\u2019Flair Hair Lounge",
+        "address_line2": "1s132 Summit Avenue, Oakbrook Terrace, IL 60181, United States of America",
+        "category": "commercial.health_and_beauty;service.beauty.spa",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86HJV25G+3P",
+        "plus_code_short": "5G+3P Oakbrook Terrace, DuPage County, United States",
+        "rank": {
+            "importance": 9.99999999995449e-06,
+            "popularity": 4.651836432680927,
+            "confidence": 0.53865,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0.567,
+            "confidence_building_level": 0.53865,
+            "match_type": "full_match"
+        },
+        "place_id": "511c48725449fe55c05976ad1809c8ed4440f00103f901193fd2e202000000c002039203164c65e28099466c6169722048616972204c6f756e6765e203266f70656e7374726565746d61703a616464726573733a6e6f64652f3132333935333634313231"
+    }
+},
+{
+    "original_address": "6840-6842 Fort Dent Way, Tukwila, WA 98188",
+    "latitude": 47.4679725,
+    "longitude": -122.24755870239053,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Washington",
+        "county": "King County",
+        "city": "Tukwila",
+        "postcode": "98188",
+        "street": "Fort Dent Way",
+        "housenumber": "6840",
+        "lon": -122.24755870239053,
+        "lat": 47.4679725,
+        "state_code": "WA",
+        "result_type": "building",
+        "formatted": "6840 Fort Dent Way, Tukwila, WA 98188, United States of America",
+        "address_line1": "6840 Fort Dent Way",
+        "address_line2": "Tukwila, WA 98188, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "84VVFQ92+5X",
+        "plus_code_short": "92+5X Tukwila, King County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 3.9762378454566485,
+            "confidence": 0.9,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 0.9,
+            "match_type": "full_match"
+        },
+        "place_id": "51e2a67400d88f5ec059b476db85e6bb4740f00102f9012271d72600000000c00203"
+    }
+},
+{
+    "original_address": "241 W 37th St, New York, NY 10018",
+    "latitude": 40.753836,
+    "longitude": -73.99087391441901,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Manhattan",
+        "neighbourhood": "Garment District",
+        "street": "West 37th Street",
+        "housenumber": "241",
+        "lon": -73.99087391441901,
+        "lat": 40.753836,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "241 West 37th Street, New York, NY 10018, United States of America",
+        "address_line1": "241 West 37th Street",
+        "address_line2": "New York, NY 10018, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q235+GM",
+        "plus_code_short": "Q235+GM New York, New York County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51e8386c7a6a7f52c0591346b3b27d604440f00102f901eb18d00f00000000c00203"
+    }
+},
+{
+    "original_address": "1975 W El Camino Real, Mountain View, CA 94040",
+    "latitude": 37.3941874003511,
+    "longitude": -122.0987451436722,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Santa Clara County",
+        "city": "Mountain View",
+        "postcode": "94040",
+        "street": "West El Camino Real",
+        "housenumber": "1975",
+        "lon": -122.0987451436722,
+        "lat": 37.3941874003511,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "1975 West El Camino Real, Mountain View, CA 94040, United States of America",
+        "address_line1": "1975 West El Camino Real",
+        "address_line2": "Mountain View, CA 94040, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "849V9WV2+MG",
+        "plus_code_short": "V2+MG, 94040 Mountain View, United States",
+        "rank": {
+            "importance": -0.32999999999999996,
+            "popularity": 5.538236162693481,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5180ad26d751865ec0596a8094bb74b24240f00102f9016989710100000000c00203"
+    }
+},
+{
+    "original_address": "16903 Red Oak Dr, Houston, TX 77090",
+    "latitude": 30.01477,
+    "longitude": -95.44294,
+    "geoapify_response": {
+        "country_code": "us",
+        "housenumber": "16903",
+        "street": "Red Oak Drive",
+        "country": "United States",
+        "county": "Harris County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "77090",
+        "state": "Texas",
+        "city": "Houston",
+        "state_code": "TX",
+        "lon": -95.44294,
+        "lat": 30.01477,
+        "result_type": "building",
+        "formatted": "16903 Red Oak Drive, Houston, TX 77090, United States of America",
+        "address_line1": "16903 Red Oak Drive",
+        "address_line2": "Houston, TX 77090, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86262H74+WR",
+        "plus_code_short": "2H74+WR, 77090 Houston, United States",
+        "rank": {
+            "popularity": 4.030496610168739,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51c685032159dc57c05940f67af7c7033e40c00203e2034c6f70656e6164647265737365733a616464726573733a75732f74782f677265617465725f686f7573746f6e2d6164647265737365732d73746174653a39313533353635313239666333323738"
+    }
+},
+{
+    "original_address": "1855 W Baseline Rd, Mesa, AZ 85202",
+    "latitude": 33.3774863,
+    "longitude": -111.87426642006764,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arizona",
+        "county": "Maricopa County",
+        "city": "Mesa",
+        "postcode": "85202",
+        "district": "Dobson Shores",
+        "street": "West Baseline Road",
+        "housenumber": "1855",
+        "lon": -111.87426642006764,
+        "lat": 33.3774863,
+        "state_code": "AZ",
+        "result_type": "building",
+        "formatted": "1855 West Baseline Road, Mesa, AZ 85202, United States of America",
+        "address_line1": "1855 West Baseline Road",
+        "address_line2": "Mesa, AZ 85202, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Phoenix",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MST"
+        },
+        "plus_code": "855C94GG+X7",
+        "plus_code_short": "94GG+X7 Mesa, Maricopa County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.196379182068893,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "519e8b24fbf3f75bc0591298987851b04040f00102f901d22b3a1f00000000c00203"
+    }
+},
+{
+    "original_address": "8609 Westwood Center Dr, Vienna, VA 22182",
+    "latitude": 38.928954,
+    "longitude": -77.245949,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Virginia",
+        "county": "Fairfax County",
+        "city": "Tysons",
+        "postcode": "22182",
+        "district": "Ash Grove",
+        "street": "Westwood Center Drive",
+        "housenumber": "8609",
+        "lon": -77.245949,
+        "lat": 38.928954,
+        "state_code": "VA",
+        "result_type": "building",
+        "formatted": "8609 Westwood Center Drive, Tysons, VA 22182, United States of America",
+        "address_line1": "8609 Westwood Center Drive",
+        "address_line2": "Tysons, VA 22182, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C4WQH3+HJ",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 5.178490190028341,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51f8dedfa0bd4f53c05983bef4f6e7764340f00102f901bc9c512300000000c00203"
+    }
+},
+{
+    "original_address": "1001 Brickell Bay Dr, Miami, FL 33131",
+    "latitude": 25.763898,
+    "longitude": -80.189922,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Florida",
+        "county": "Miami-Dade County",
+        "city": "Miami",
+        "postcode": "33131",
+        "street": "Brickell Bay Drive",
+        "housenumber": "1001",
+        "lon": -80.189922,
+        "lat": 25.763898,
+        "state_code": "FL",
+        "result_type": "building",
+        "formatted": "1001 Brickell Bay Drive, Miami, FL 33131, United States of America",
+        "address_line1": "1001 Brickell Bay Drive",
+        "address_line2": "Miami, FL 33131, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76QXQR76+H2",
+        "plus_code_short": "76+H2, 33131 Miami, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 7.133273329528646,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "519eb29aae270c54c059d57abfd18ec33940f00102f901cbb7a90000000000c00203"
+    }
+},
+{
+    "original_address": "301 W Atlantic Ave, Delray Beach, FL 33444",
+    "latitude": 26.461705,
+    "longitude": -80.076276,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Florida",
+        "county": "Palm Beach County",
+        "city": "Delray Beach",
+        "postcode": "33444",
+        "street": "West Atlantic Avenue",
+        "housenumber": "301",
+        "lon": -80.076276,
+        "lat": 26.461705,
+        "state_code": "FL",
+        "result_type": "building",
+        "formatted": "301 West Atlantic Avenue, Delray Beach, FL 33444, United States of America",
+        "address_line1": "301 West Atlantic Avenue",
+        "address_line2": "Delray Beach, FL 33444, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76RXFW6F+MF",
+        "plus_code_short": "6F+MF Delray Beach, Palm Beach County, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 3.2167703134433503,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "510f5ebbb4e10454c0595166834c32763a40f00102f9016bae124200000000c00203"
+    }
+},
+{
+    "original_address": "16800 N Dallas Pky, Dallas, TX 75248",
+    "latitude": 32.9764166,
+    "longitude": -96.8236034,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dallas Parkway",
+        "ref": "CR 13",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75282",
+        "street": "Dallas Parkway",
+        "lon": -96.8236034,
+        "lat": 32.9764166,
+        "state_code": "TX",
+        "housenumber": "16800",
+        "result_type": "building",
+        "formatted": "16800 Dallas Parkway, Dallas, TX 75282, United States of America",
+        "address_line1": "16800 Dallas Parkway",
+        "address_line2": "Dallas, TX 75282, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5GG+HH",
+        "plus_code_short": "X5GG+HH, 75282 Dallas, United States",
+        "rank": {
+            "importance": 0.2533433333333333,
+            "popularity": 5.12710235383669,
+            "confidence": 0.9,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0.9,
+            "confidence_building_level": 0.9,
+            "match_type": "full_match"
+        },
+        "place_id": "51f6f708ebb53458c059c1221a38fb7c4040c0020392030e44616c6c6173205061726b776179e203266f70656e6164647265737365733a616464726573733a35346130626130646433643835386139"
+    }
+},
+{
+    "original_address": "507 N Sam Houston Pky E, Houston, TX 77060",
+    "latitude": 29.938298928571427,
+    "longitude": -95.39030507142857,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Harris County",
+        "city": "Houston",
+        "postcode": "77060",
+        "suburb": "North Houston District",
+        "street": "North Sam Houston Parkway East",
+        "housenumber": "507",
+        "lon": -95.39030507142857,
+        "lat": 29.938298928571427,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "507 North Sam Houston Parkway East, Houston, TX 77060, United States of America",
+        "address_line1": "507 North Sam Houston Parkway East",
+        "address_line2": "Houston, TX 77060, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "76X6WJQ5+8V",
+        "plus_code_short": "WJQ5+8V, 77060 Houston, United States",
+        "rank": {
+            "importance": -0.6399999999999999,
+            "popularity": 4.136501762565777,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51ea4f1fc2fad857c0590c16cc5b34f03d40f00102f9012c0d8b3e00000000c00203"
+    }
+},
+{
+    "original_address": "2000 Glades Rd, Boca Raton, FL 33431",
+    "latitude": 26.368061872999878,
+    "longitude": -80.12309810651531,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Florida",
+        "county": "Palm Beach County",
+        "city": "Boca Raton",
+        "postcode": "33431",
+        "street": "Glades Road",
+        "housenumber": "2000",
+        "lon": -80.12309810651531,
+        "lat": 26.368061872999878,
+        "state_code": "FL",
+        "result_type": "building",
+        "formatted": "2000 Glades Road, Boca Raton, FL 33431, United States of America",
+        "address_line1": "2000 Glades Road",
+        "address_line2": "Boca Raton, FL 33431, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76RX9V9G+6Q",
+        "plus_code_short": "9V9G+6Q Boca Raton, Palm Beach County, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 3.7297183825084343,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51b36be1d6e00754c05961708b4d395e3a40f00102f9019782ab2800000000c00203"
+    }
+},
+{
+    "original_address": "545 E John Carpenter Fwy, Irving, TX 75062",
+    "latitude": 32.858900969387754,
+    "longitude": -96.93491355102041,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75062",
+        "street": "East John Carpenter Freeway",
+        "housenumber": "545",
+        "lon": -96.93491355102041,
+        "lat": 32.858900969387754,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "545 East John Carpenter Freeway, Irving, TX 75062, United States of America",
+        "address_line1": "545 East John Carpenter Freeway",
+        "address_line2": "Irving, TX 75062, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V358+H2",
+        "plus_code_short": "V358+H2 Irving, Dallas County, United States",
+        "rank": {
+            "importance": -0.6399999999999999,
+            "popularity": 4.748213115400083,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51138ea59fd53b58c059f5028b77f06d4040f00102f9012c3efe1800000000c00203"
+    }
+},
+{
+    "original_address": "1825 K St NW, Washington, DC 20006",
+    "latitude": 38.902607,
+    "longitude": -77.0422003265306,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "postcode": "20006",
+        "district": "Ward 2",
+        "neighbourhood": "Golden Triangle",
+        "street": "K Street Northwest",
+        "housenumber": "1825",
+        "lon": -77.0422003265306,
+        "lat": 38.902607,
+        "state_code": "DC",
+        "result_type": "building",
+        "formatted": "1825 K Street Northwest, Washington, DC 20006, United States of America",
+        "address_line1": "1825 K Street Northwest",
+        "address_line2": "Washington, DC 20006, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C4WX35+24",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 8.109095699522557,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "511695ff68b34253c05902124da088734340f00102f90100a5ca2200000000c00203"
+    }
+},
+{
+    "original_address": "381 Park Ave S, New York, NY 10016",
+    "latitude": 40.7425017,
+    "longitude": -73.984456,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan",
+        "neighbourhood": "Rose Hill",
+        "street": "Park Avenue South",
+        "housenumber": "381",
+        "lon": -73.984456,
+        "lat": 40.7425017,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "381 Park Avenue South, New York, NY 10016, United States of America",
+        "address_line1": "381 Park Avenue South",
+        "address_line2": "New York, NY 10016, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8P2V8+26",
+        "plus_code_short": "P2V8+26 New York, New York County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 8.302217684056936,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "517616bd53017f52c059b95cb34b0a5f4440f00103f9019e4a58a100000000c00203"
+    }
+},
+{
+    "original_address": "110 W 11th St, Los Angeles, CA 90015",
+    "latitude": 34.039137705610536,
+    "longitude": -118.25837513028965,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Los Angeles County",
+        "city": "Los Angeles",
+        "postcode": "90015",
+        "suburb": "Downtown",
+        "quarter": "Financial District",
+        "street": "West 11th Street",
+        "housenumber": "110",
+        "lon": -118.25837513028965,
+        "lat": 34.039137705610536,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "110 West 11th Street, Los Angeles, CA 90015, United States of America",
+        "address_line1": "110 West 11th Street",
+        "address_line2": "Los Angeles, CA 90015, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "85632PQR+MJ",
+        "plus_code_short": "QR+MJ Los Angeles, Los Angeles County, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 6.910317895535316,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5167acd73789905dc059a1d1de7602054140f00102f901cec1fc0d00000000c00203"
+    }
+},
+{
+    "original_address": "2021 E 5th St, Austin, TX 78702",
+    "latitude": 30.2594656,
+    "longitude": -97.72020665460809,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Travis County",
+        "city": "Austin",
+        "postcode": "78702",
+        "district": "Holly",
+        "street": "East 5th Street",
+        "housenumber": "2021",
+        "lon": -97.72020665460809,
+        "lat": 30.2594656,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "2021 East 5th Street, Austin, TX 78702, United States of America",
+        "address_line1": "2021 East 5th Street",
+        "address_line2": "Austin, TX 78702, United States of America",
+        "category": "building.commercial",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8624775H+QW",
+        "plus_code_short": "775H+QW, 78702 Austin, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 5.5815479713898135,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51d0f9a6dd176e58c059e06f6a566c423e40f00102f9016c069a1600000000c00203"
+    }
+},
+{
+    "original_address": "1550 N Northwest Hwy, Park Ridge, IL 60068",
+    "latitude": 42.0344512,
+    "longitude": -87.8650704,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Illinois",
+        "county": "Cook County",
+        "city": "Park Ridge",
+        "municipality": "Maine Township",
+        "postcode": "60068",
+        "street": "North Northwest Highway",
+        "housenumber": "1550",
+        "lon": -87.8650704,
+        "lat": 42.0344512,
+        "state_code": "IL",
+        "result_type": "building",
+        "formatted": "1550 North Northwest Highway, Park Ridge, IL 60068, United States of America",
+        "address_line1": "1550 North Northwest Highway",
+        "address_line2": "Park Ridge, IL 60068, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86JJ24MM+QX",
+        "plus_code_short": "24MM+QX, 60068 Park Ridge, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.563313863758489,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51352f3d505df755c0596ba79ce568044540f00103f90118d4b51601000000c00203"
+    }
+},
+{
+    "original_address": "6320 Canoga Ave, Woodland Hills, CA 91367",
+    "latitude": 34.18499,
+    "longitude": -118.59722,
+    "geoapify_response": {
+        "country_code": "us",
+        "housenumber": "6320",
+        "street": "North Canoga Avenue",
+        "country": "United States",
+        "county": "Los Angeles County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "91367",
+        "state": "California",
+        "city": "Los Angeles",
+        "suburb": "Woodland Hills",
+        "state_code": "CA",
+        "lon": -118.59722,
+        "lat": 34.18499,
+        "result_type": "building",
+        "formatted": "6320 North Canoga Avenue, Los Angeles, CA 91367, United States of America",
+        "address_line1": "6320 North Canoga Avenue",
+        "address_line2": "Los Angeles, CA 91367, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "85635CM3+X4",
+        "rank": {
+            "popularity": 4.336304097491634,
+            "confidence": 0.9,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0.9,
+            "confidence_building_level": 0.9,
+            "match_type": "full_match"
+        },
+        "place_id": "5118213cda38a65dc059240b98c0ad174140c00203e2034f6f70656e6164647265737365733a616464726573733a75732f63612f636974795f6f665f6c6f735f616e67656c65732d6164647265737365732d636974793a30623833376533366237643263343034"
+    }
+},
+{
+    "original_address": "2415 E Camelback Rd, Phoenix, AZ 85016",
+    "latitude": 33.50925518626367,
+    "longitude": -112.02974147811054,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arizona",
+        "county": "Maricopa County",
+        "city": "Phoenix",
+        "postcode": "85016",
+        "district": "Biltmore",
+        "street": "East Camelback Road",
+        "housenumber": "2415",
+        "lon": -112.02974147811054,
+        "lat": 33.50925518626367,
+        "state_code": "AZ",
+        "result_type": "building",
+        "formatted": "2415 East Camelback Road, Phoenix, AZ 85016, United States of America",
+        "address_line1": "2415 East Camelback Road",
+        "address_line2": "Phoenix, AZ 85016, United States of America",
+        "timezone": {
+            "name": "America/Phoenix",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MST"
+        },
+        "plus_code": "8559GX5C+P4",
+        "plus_code_short": "GX5C+P4, 85016 Phoenix, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 4.5301783008988545,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5172f4cc48e7015cc059122921462fc14040f00102f9013c22012700000000c00203"
+    }
+},
+{
+    "original_address": "1141 Shady Ln, Austin, TX 78721",
+    "latitude": 30.2626513,
+    "longitude": -97.6907154740152,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Travis County",
+        "city": "Austin",
+        "postcode": "78721",
+        "street": "Shady Lane",
+        "housenumber": "1141",
+        "lon": -97.6907154740152,
+        "lat": 30.2626513,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "1141 Shady Lane, Austin, TX 78721, United States of America",
+        "address_line1": "1141 Shady Lane",
+        "address_line2": "Austin, TX 78721, United States of America",
+        "category": "building.office",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86247875+3P",
+        "plus_code_short": "7875+3P, 78721 Austin, United States",
+        "rank": {
+            "importance": 0.21000999999999997,
+            "popularity": 4.839110941908461,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5122efacae346c58c0597cc0971d3d433e40f00101f9016c8eee0000000000c00203"
+    }
+},
+{
+    "original_address": "5440 Morehouse Dr, San Diego, CA 92121",
+    "latitude": 32.894367,
+    "longitude": -117.201095,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "village": "Sorrento Valley",
+        "postcode": "92121",
+        "street": "Morehouse Drive",
+        "housenumber": "5440",
+        "lon": -117.201095,
+        "lat": 32.894367,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "5440 Morehouse Drive, San Diego, CA 92121, United States of America",
+        "address_line1": "5440 Morehouse Drive",
+        "address_line2": "San Diego, CA 92121, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8544VQVX+PH",
+        "plus_code_short": "VQVX+PH, 92121 San Diego, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 4.961444931975998,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51e71890bdde4c5dc05992cf2b9e7a724040f00103f90110d0892300000000c00203"
+    }
+},
+{
+    "original_address": "1155 Business Center Dr, Horsham, PA 19044",
+    "latitude": 40.1706567,
+    "longitude": -75.1490927,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Business Center Drive",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Pennsylvania",
+        "county": "Montgomery County",
+        "city": "Horsham Township",
+        "town": "Horsham",
+        "postcode": "19044",
+        "street": "Business Center Drive",
+        "lon": -75.1490927,
+        "lat": 40.1706567,
+        "state_code": "PA",
+        "housenumber": "1155",
+        "result_type": "building",
+        "formatted": "1155 Business Center Drive, Horsham Township, PA 19044, United States of America",
+        "address_line1": "1155 Business Center Drive",
+        "address_line2": "Horsham Township, PA 19044, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G65VC2+79",
+        "rank": {
+            "importance": 0.35334333333333334,
+            "popularity": 3.983042869068133,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51a1a41bbc8ac952c059f1ab2814d8154440c00203920315427573696e6573732043656e746572204472697665e203266f70656e6164647265737365733a616464726573733a63323830306434636563393161326237"
+    }
+},
+{
+    "original_address": "333 W Ohio St, Chicago, IL 60654",
+    "latitude": 41.89227916236968,
+    "longitude": -87.63613457641591,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Illinois",
+        "county": "Cook County",
+        "city": "Chicago",
+        "postcode": "60654",
+        "district": "River North",
+        "suburb": "Near North Side",
+        "street": "West Ohio Street",
+        "housenumber": "333",
+        "lon": -87.63613457641591,
+        "lat": 41.89227916236968,
+        "state_code": "IL",
+        "result_type": "building",
+        "formatted": "333 West Ohio Street, Chicago, IL 60654, United States of America",
+        "address_line1": "333 West Ohio Street",
+        "address_line2": "Chicago, IL 60654, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86HJV9R7+WG",
+        "plus_code_short": "V9R7+WG Chicago, Cook County, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 7.370007411372326,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51ea63cc6db6e855c059d9a31e3436f24440f00102f901a6554b4f00000000c00203"
+    }
+},
+{
+    "original_address": "3331 Street Rd, Bensalem, PA 19020",
+    "latitude": 40.119235038510595,
+    "longitude": -74.96032289709096,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Pennsylvania",
+        "county": "Bucks County",
+        "city": "Bensalem Township",
+        "hamlet": "Nottingham",
+        "postcode": "19020",
+        "street": "Street Road",
+        "housenumber": "3331",
+        "lon": -74.96032289709096,
+        "lat": 40.119235038510595,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "3331 Street Road, Bensalem Township, PA 19020, United States of America",
+        "address_line1": "3331 Street Road",
+        "address_line2": "Bensalem Township, PA 19020, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G7429Q+MV",
+        "rank": {
+            "importance": -0.63,
+            "popularity": 3.911525406416285,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51c3262bee75bd52c0595c78ff17430f4440f00102f9014ca0441900000000c00203"
+    }
+},
+{
+    "original_address": "2401 E Randol Mill Rd, Arlington, TX 76011",
+    "latitude": 32.74838965469911,
+    "longitude": -97.06679037116525,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76011",
+        "street": "East Randol Mill Road",
+        "housenumber": "2401",
+        "lon": -97.06679037116525,
+        "lat": 32.74838965469911,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "2401 East Randol Mill Road, Arlington, TX 76011, United States of America",
+        "address_line1": "2401 East Randol Mill Road",
+        "address_line2": "Arlington, TX 76011, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PWXM+97",
+        "plus_code_short": "PWXM+97, 76011 Arlington, United States",
+        "rank": {
+            "importance": -0.6399999999999999,
+            "popularity": 4.522662220042321,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51ebf51e4b464458c05978cc713bcb5f4040f00102f9019b7cfe1800000000c00203"
+    }
+},
+{
+    "original_address": "1855 Griffin Rd, Dania Beach, FL 33004",
+    "latitude": 26.062867634346034,
+    "longitude": -80.16617287117107,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Florida",
+        "county": "Broward County",
+        "city": "Dania Beach",
+        "postcode": "33004",
+        "street": "Griffin Road",
+        "housenumber": "1855",
+        "lon": -80.16617287117107,
+        "lat": 26.062867634346034,
+        "state_code": "FL",
+        "result_type": "building",
+        "formatted": "1855 Griffin Road, Dania Beach, FL 33004, United States of America",
+        "address_line1": "1855 Griffin Road",
+        "address_line2": "Dania Beach, FL 33004, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76RX3R7M+4G",
+        "plus_code_short": "3R7M+4G Dania Beach, Broward County, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 5.250794969685838,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5161ca8993a20a54c0593c7ee11718103a40f00102f901c861093b00000000c00203"
+    }
+},
+{
+    "original_address": "1415 North Loop W, Houston, TX 77008",
+    "latitude": 29.8114077,
+    "longitude": -95.424144,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Nossa Law Office P.C.",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Harris County",
+        "city": "Houston",
+        "postcode": "77008",
+        "suburb": "Houston Heights",
+        "street": "North Loop West",
+        "housenumber": "1415",
+        "lon": -95.424144,
+        "lat": 29.8114077,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Nossa Law Office P.C., 1415 North Loop West, Houston, TX 77008, United States of America",
+        "address_line1": "Nossa Law Office P.C.",
+        "address_line2": "1415 North Loop West, Houston, TX 77008, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "76X6RH6G+H8",
+        "plus_code_short": "RH6G+H8, 77008 Houston, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.830727576529209,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "inner_part"
+        },
+        "place_id": "51db32e02c25db57c059fb383f6ab8cf3d40f00103f901ed1c0d7d01000000c002019203154e6f737361204c6177204f666669636520502e432e"
+    }
+},
+{
+    "original_address": "870 Market St, San Francisco, CA 94102",
+    "latitude": 37.784244375,
+    "longitude": -122.40754704166666,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "city": "San Francisco",
+        "postcode": "94103",
+        "district": "Union Square",
+        "suburb": "South of Market",
+        "street": "Market Street",
+        "housenumber": "870",
+        "lon": -122.40754704166666,
+        "lat": 37.784244375,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "870 Market Street, San Francisco, CA 94103, United States of America",
+        "address_line1": "870 Market Street",
+        "address_line2": "San Francisco, CA 94103, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "849VQHMR+MX",
+        "plus_code_short": "MR+MX San Francisco, California, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 7.947566780780423,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "518de22f40159a5ec0593659a31e62e44240f00102f901c0e8cd1500000000c00203"
+    }
+},
+{
+    "original_address": "5068 W Plano Pky, Plano, TX 75093",
+    "latitude": 33.016201,
+    "longitude": -96.79892,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "West Plano Parkway",
+        "housenumber": "5068",
+        "lon": -96.79892,
+        "lat": 33.016201,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "5068 West Plano Parkway, Plano, TX 75093, United States of America",
+        "address_line1": "5068 West Plano Parkway",
+        "address_line2": "Plano, TX 75093, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552682+FC",
+        "plus_code_short": "2682+FC, 75093 Plano, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 5.167844010293747,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51b3075a81213358c059cd94d6df12824040f00102f901687ed02a00000000c00203"
+    }
+},
+{
+    "original_address": "7025 N Scottsdale Rd, Scottsdale, AZ 85253",
+    "latitude": 33.5406878,
+    "longitude": -111.92465901293434,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arizona",
+        "county": "Maricopa County",
+        "city": "Scottsdale",
+        "postcode": "85250",
+        "street": "North Scottsdale Road",
+        "housenumber": "7025",
+        "lon": -111.92465901293434,
+        "lat": 33.5406878,
+        "state_code": "AZ",
+        "result_type": "building",
+        "formatted": "7025 North Scottsdale Road, Scottsdale, AZ 85250, United States of America",
+        "address_line1": "7025 North Scottsdale Road",
+        "address_line2": "Scottsdale, AZ 85250, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Phoenix",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MST"
+        },
+        "plus_code": "855CG3RG+74",
+        "plus_code_short": "G3RG+74 Scottsdale, Maricopa County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.062056745188261,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "514c20ff9c2dfb5bc059502c014235c54040f00102f9013bfdad4700000000c00203"
+    }
+},
+{
+    "original_address": "15400 SE 30th Pl, Bellevue, WA 98007",
+    "latitude": 47.583398450000004,
+    "longitude": -122.13474410145386,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Washington",
+        "county": "King County",
+        "city": "Bellevue",
+        "postcode": "98007",
+        "suburb": "Eastgate",
+        "street": "Southeast 30th Place",
+        "housenumber": "15400",
+        "lon": -122.13474410145386,
+        "lat": 47.583398450000004,
+        "state_code": "WA",
+        "result_type": "building",
+        "formatted": "15400 Southeast 30th Place, Bellevue, WA 98007, United States of America",
+        "address_line1": "15400 Southeast 30th Place",
+        "address_line2": "Bellevue, WA 98007, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "84VVHVM8+94",
+        "plus_code_short": "HVM8+94, 98007 Bellevue, United States",
+        "rank": {
+            "importance": 0.5200099999999999,
+            "popularity": 4.018739558000062,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51b044b9a59f885ec059c0a4e7ccacca4740f00102f90183172c1400000000c00203"
+    }
+},
+{
+    "original_address": "1090 Northchase Pky SE, Marietta, GA 30067",
+    "latitude": 33.9277741,
+    "longitude": -84.482138652518,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Georgia",
+        "county": "Cobb County",
+        "city": "Marietta",
+        "postcode": "30067",
+        "street": "Northchase Parkway Southeast",
+        "housenumber": "1090",
+        "lon": -84.482138652518,
+        "lat": 33.9277741,
+        "state_code": "GA",
+        "result_type": "building",
+        "formatted": "1090 Northchase Parkway Southeast, Marietta, GA 30067, United States of America",
+        "address_line1": "1090 Northchase Parkway Southeast",
+        "address_line2": "Marietta, GA 30067, United States of America",
+        "category": "building.commercial",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "865QWGH9+44",
+        "plus_code_short": "WGH9+44, 30067 Marietta, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 4.642600047999653,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51f32c145cdb1e55c059b5c93c4dc1f64040f00102f901d82aee1000000000c00203"
+    }
+},
+{
+    "original_address": "5850 Granite Pky, Plano, TX 75024",
+    "latitude": 33.087866,
+    "longitude": -96.821712,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Granite Parkway",
+        "housenumber": "5850",
+        "lon": -96.821712,
+        "lat": 33.087866,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "5850 Granite Parkway, Plano, TX 75024, United States of America",
+        "address_line1": "5850 Granite Parkway",
+        "address_line2": "Plano, TX 75024, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535QH+48",
+        "plus_code_short": "35QH+48, 75024 Plano, United States",
+        "rank": {
+            "importance": -0.94,
+            "popularity": 5.14705427240296,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51c5aeeded963458c05915376e313f8b4040f00102f90185051b4000000000c00203"
+    }
+},
+{
+    "original_address": "401 B St, San Diego, CA 92101",
+    "latitude": 32.717727,
+    "longitude": -117.160953,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "postcode": "92101",
+        "district": "Core-Columbia",
+        "suburb": "Banker's Hill",
+        "street": "B Street",
+        "housenumber": "401",
+        "lon": -117.160953,
+        "lat": 32.717727,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "401 B Street, San Diego, CA 92101, United States of America",
+        "address_line1": "401 B Street",
+        "address_line2": "San Diego, CA 92101, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8544PR9Q+3J",
+        "plus_code_short": "9Q+3J, 92101 San Diego, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 7.853858467262348,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "515ccccf0d4d4a5dc059643a747ade5b4040f00102f901791d010e00000000c00203"
+    }
+},
+{
+    "original_address": "542 1st Ave S, Seattle, WA 98104",
+    "latitude": 47.59710038709677,
+    "longitude": -122.33407067741935,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Washington",
+        "county": "King County",
+        "city": "Seattle",
+        "postcode": "98104",
+        "suburb": "First Hill",
+        "street": "1st Avenue South",
+        "housenumber": "542",
+        "lon": -122.33407067741935,
+        "lat": 47.59710038709677,
+        "state_code": "WA",
+        "result_type": "building",
+        "formatted": "542 1st Avenue South, Seattle, WA 98104, United States of America",
+        "address_line1": "542 1st Avenue South",
+        "address_line2": "Seattle, WA 98104, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "84VVHMW8+R9",
+        "plus_code_short": "W8+R9 Seattle, King County, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 6.371152110618477,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "516584fa6961955ec0593a8115c96dcc4740f00102f901b549790900000000c00203"
+    }
+},
+{
+    "original_address": "12526 High Bluff Dr, San Diego, CA 92130",
+    "latitude": 32.9452044,
+    "longitude": -117.2417693,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "High Bluff Drive",
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "postcode": "92014",
+        "street": "High Bluff Drive",
+        "lon": -117.2417693,
+        "lat": 32.9452044,
+        "state_code": "CA",
+        "housenumber": "12526",
+        "result_type": "building",
+        "formatted": "12526 High Bluff Drive, San Diego, CA 92014, United States of America",
+        "address_line1": "12526 High Bluff Drive",
+        "address_line2": "San Diego, CA 92014, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8544WQW5+37",
+        "plus_code_short": "WQW5+37, 92014 San Diego, United States",
+        "rank": {
+            "importance": 0.35334333333333334,
+            "popularity": 4.243678827420729,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51512bf125794f5dc05985043175fc784040c002039203104869676820426c756666204472697665e203266f70656e6164647265737365733a616464726573733a30333030613638343137333963383233"
+    }
+},
+{
+    "original_address": "6795 E Tennessee Ave, Denver, CO 80224",
+    "latitude": 39.6990293,
+    "longitude": -104.90984885,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80224",
+        "street": "East Tennessee Avenue",
+        "housenumber": "6795",
+        "lon": -104.90984885,
+        "lat": 39.6990293,
+        "state_code": "CO",
+        "result_type": "building",
+        "formatted": "6795 East Tennessee Avenue, Denver, CO 80224, United States of America",
+        "address_line1": "6795 East Tennessee Avenue",
+        "address_line2": "Denver, CO 80224, United States of America",
+        "category": "building.office",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-06:00",
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FQM3XR+J3",
+        "plus_code_short": "M3XR+J3, 80224 Denver, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.771662425222993,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5168c3abf63a3a5ac0590f39c7ca79d94340f00102f9014d8f711000000000c00203"
+    }
+},
+{
+    "original_address": "1521 N Cooper St, Arlington, TX 76011",
+    "latitude": 32.7587993,
+    "longitude": -97.11381836515937,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76011",
+        "street": "North Cooper Street",
+        "housenumber": "1521",
+        "lon": -97.11381836515937,
+        "lat": 32.7587993,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "1521 North Cooper Street, Arlington, TX 76011, United States of America",
+        "address_line1": "1521 North Cooper Street",
+        "address_line2": "Arlington, TX 76011, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QV5P+GF",
+        "plus_code_short": "QV5P+GF, 76011 Arlington, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.732847905053998,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51cc02d3cc484758c05925dde05520614040f00102f9014ab1432600000000c00203"
+    }
+},
+{
+    "original_address": "15335 Morrison St, Sherman Oaks, CA 91403",
+    "latitude": 34.16035473772929,
+    "longitude": -118.46687218586457,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Los Angeles County",
+        "city": "Los Angeles",
+        "postcode": "91403",
+        "suburb": "Sherman Oaks Neighborhood Council District",
+        "street": "Morrison Street",
+        "housenumber": "15335",
+        "lon": -118.46687218586457,
+        "lat": 34.16035473772929,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "15335 Morrison Street, Los Angeles, CA 91403, United States of America",
+        "address_line1": "15335 Morrison Street",
+        "address_line2": "Los Angeles, CA 91403, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "85635G6M+47",
+        "plus_code_short": "5G6M+47 Los Angeles, Los Angeles County, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.899326224544638,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51d36ce03be19d5dc0592a27098186144140f00102f901c4ddf50100000000c00203"
+    }
+},
+{
+    "original_address": "655 Third Ave, New York, NY 10017",
+    "latitude": 40.7503353,
+    "longitude": -73.9745334,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10017",
+        "district": "Manhattan",
+        "neighbourhood": "Tudor City",
+        "street": "3rd Avenue",
+        "housenumber": "655",
+        "lon": -73.9745334,
+        "lat": 40.7503353,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "655 3rd Avenue, New York, NY 10017, United States of America",
+        "address_line1": "655 3rd Avenue",
+        "address_line2": "New York, NY 10017, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q22G+45",
+        "plus_code_short": "Q22G+45 New York, New York County, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 8.477692998546592,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51057756c15e7e52c0596644b3fc0a604440f00103f9012ea4d0a100000000c00203"
+    }
+},
+{
+    "original_address": "222 Delaware Ave, Wilmington, DE 19801",
+    "latitude": 39.74629490221748,
+    "longitude": -75.54984648664175,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Delaware",
+        "county": "New Castle County",
+        "city": "Wilmington",
+        "postcode": "19801",
+        "district": "Midtown Brandywine",
+        "street": "Delaware Avenue",
+        "housenumber": "222",
+        "lon": -75.54984648664175,
+        "lat": 39.74629490221748,
+        "state_code": "DE",
+        "result_type": "building",
+        "formatted": "222 Delaware Avenue, Wilmington, DE 19801, United States of America",
+        "address_line1": "222 Delaware Avenue",
+        "address_line2": "Wilmington, DE 19801, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87F6PFW2+G3",
+        "plus_code_short": "W2+G3, 19801 Wilmington, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.74806025321237,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51997c51af30e352c0590919639786df4340f00102f901345bf60b00000000c00203"
+    }
+},
+{
+    "original_address": "2002 W Grand Pky N, Katy, TX 77449",
+    "latitude": 29.8331367,
+    "longitude": -95.7594978,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "West Grand Parkway North",
+        "ref": "TX 99 Toll",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Harris County",
+        "city": "Houston",
+        "postcode": "77449",
+        "street": "West Grand Parkway North",
+        "lon": -95.7594978,
+        "lat": 29.8331367,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "West Grand Parkway North, Houston, TX 77449, United States of America",
+        "address_line1": "West Grand Parkway North",
+        "address_line2": "Houston, TX 77449, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "76X6R6MR+76",
+        "rank": {
+            "importance": 0.35334333333333334,
+            "popularity": 3.644273584497707,
+            "confidence": 0.5,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "match_type": "inner_part"
+        },
+        "place_id": "519318a99c9bf057c059ed985f7248d53d40f00102f90137771d0c00000000c0020192031857657374204772616e64205061726b776179204e6f727468"
+    }
+},
+{
+    "original_address": "6666 Harwin Dr, Houston, TX 77036",
+    "latitude": 29.71981664,
+    "longitude": -95.49968544,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Harris County",
+        "city": "Houston",
+        "postcode": "77036",
+        "district": "Mahatma Gandhi District",
+        "suburb": "Gulfton",
+        "street": "Harwin Drive",
+        "housenumber": "6666",
+        "lon": -95.49968544,
+        "lat": 29.71981664,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "6666 Harwin Drive, Houston, TX 77036, United States of America",
+        "address_line1": "6666 Harwin Drive",
+        "address_line2": "Houston, TX 77036, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "76X6PG92+W4",
+        "plus_code_short": "PG92+W4, 77036 Houston, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.882397650029433,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5197c5a3d8fadf57c059a7ea3fe745b83d40f00102f9019c2feb0000000000c00203"
+    }
+},
+{
+    "original_address": "1410 Spring Hill Rd, McLean, VA 22102",
+    "latitude": 38.9326307,
+    "longitude": -77.23563972307693,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Virginia",
+        "county": "Fairfax County",
+        "city": "McLean",
+        "postcode": "22102",
+        "district": "Ash Grove",
+        "street": "Spring Hill Road",
+        "housenumber": "1410",
+        "lon": -77.23563972307693,
+        "lat": 38.9326307,
+        "state_code": "VA",
+        "result_type": "building",
+        "formatted": "1410 Spring Hill Road, McLean, VA 22102, United States of America",
+        "address_line1": "1410 Spring Hill Road",
+        "address_line2": "McLean, VA 22102, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C4WQM7+3P",
+        "plus_code_short": "WQM7+3P McLean, Fairfax County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 5.380236186066517,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "514010a2b8144f53c0596fdf597160774340f00102f901218a510200000000c00203"
+    }
+},
+{
+    "original_address": "800 Brazos St, Austin, TX 78701",
+    "latitude": 30.269967,
+    "longitude": -97.740833,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Travis County",
+        "city": "Austin",
+        "postcode": "78701",
+        "district": "Downtown",
+        "street": "Brazos Street",
+        "housenumber": "800",
+        "lon": -97.740833,
+        "lat": 30.269967,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "800 Brazos Street, Austin, TX 78701, United States of America",
+        "address_line1": "800 Brazos Street",
+        "address_line2": "Austin, TX 78701, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86247795+XM",
+        "plus_code_short": "95+XM, 78701 Austin, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 7.087350162177452,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "510bb3d0ce696f58c059ceffab8e1c453e40f00103f901b4fa76e500000000c00203"
+    }
+},
+{
+    "original_address": "300 E Joppa Rd, Towson, MD 21286",
+    "latitude": 39.40221,
+    "longitude": -76.59799049979016,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Maryland",
+        "county": "Baltimore County",
+        "city": "Towson",
+        "postcode": "21286",
+        "district": "Towson",
+        "street": "East Joppa Road",
+        "housenumber": "300",
+        "lon": -76.59799049979016,
+        "lat": 39.40221,
+        "state_code": "MD",
+        "result_type": "building",
+        "formatted": "300 East Joppa Road, Towson, MD 21286, United States of America",
+        "address_line1": "300 East Joppa Road",
+        "address_line2": "Towson, MD 21286, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87F5CC22+VR",
+        "plus_code_short": "22+VR Towson, Baltimore County, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 5.776397536400095,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51b7faf179452653c059e40f069e7bb34340f00102f9016ed99f0a00000000c00203"
+    }
+},
+{
+    "original_address": "5440 N Cumberland Ave, Chicago, IL 60656",
+    "latitude": 41.978585549423094,
+    "longitude": -87.83670172795729,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Illinois",
+        "county": "Cook County",
+        "city": "Chicago",
+        "municipality": "Jefferson Township",
+        "postcode": "60656",
+        "suburb": "O'Hare",
+        "street": "North Cumberland Avenue",
+        "housenumber": "5440",
+        "lon": -87.83670172795729,
+        "lat": 41.978585549423094,
+        "state_code": "IL",
+        "result_type": "building",
+        "formatted": "5440 North Cumberland Avenue, Chicago, IL 60656, United States of America",
+        "address_line1": "5440 North Cumberland Avenue",
+        "address_line2": "Chicago, IL 60656, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86HJX5H7+C8",
+        "plus_code_short": "X5H7+C8 Chicago, Cook County, United States",
+        "rank": {
+            "importance": -0.74,
+            "popularity": 5.313919678686907,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51548567858cf555c059218e914a42fd4440f00102f9019304223800000000c00203"
+    }
+},
+{
+    "original_address": "310 S Main St, Salt Lake City, UT 84101",
+    "latitude": 40.762456,
+    "longitude": -111.891543,
+    "geoapify_response": {
+        "country_code": "us",
+        "housenumber": "310",
+        "street": "South Main Street",
+        "country": "United States",
+        "county": "Salt Lake County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "84101",
+        "state": "Utah",
+        "city": "Salt Lake City",
+        "suburb": "Downtown",
+        "state_code": "UT",
+        "lon": -111.891543,
+        "lat": 40.762456,
+        "result_type": "building",
+        "formatted": "310 South Main Street, Salt Lake City, UT 84101, United States of America",
+        "address_line1": "310 South Main Street",
+        "address_line2": "Salt Lake City, UT 84101, United States of America",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-06:00",
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85GCQ465+X9",
+        "plus_code_short": "65+X9 Salt Lake City, Salt Lake County, United States",
+        "rank": {
+            "popularity": 4.992783312894014,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5193fe5e0a0ff95bc059ca51802898614440c00203e203466f70656e6164647265737365733a616464726573733a75732f75742f7374617465776964652d6164647265737365732d73746174653a34383166666434306537646539343361"
+    }
+},
+{
+    "original_address": "3600 N Capital of Texas Hwy, Austin, TX 78746",
+    "latitude": 30.33413756129743,
+    "longitude": -97.80670473956559,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Travis County",
+        "city": "Austin",
+        "postcode": "78746",
+        "street": "North Capital of Texas Highway",
+        "housenumber": "3600",
+        "lon": -97.80670473956559,
+        "lat": 30.33413756129743,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "3600 North Capital of Texas Highway, Austin, TX 78746, United States of America",
+        "address_line1": "3600 North Capital of Texas Highway",
+        "address_line2": "Austin, TX 78746, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "862485MV+M8",
+        "plus_code_short": "85MV+M8, 78746 Austin, United States",
+        "rank": {
+            "importance": -0.5399999999999999,
+            "popularity": 3.917314577285242,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51987dea0ca17358c0593e230a0a8a553e40f00102f901a000081a00000000c00203"
+    }
+},
+{
+    "original_address": "11 Times Sq, New York, NY 10036",
+    "latitude": 40.756763,
+    "longitude": -73.98984,
+    "geoapify_response": {
+        "country_code": "us",
+        "housenumber": "11",
+        "street": "Times Square",
+        "country": "United States",
+        "county": "New York County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "10036",
+        "state": "New York",
+        "city": "New York",
+        "district": "Manhattan",
+        "suburb": "Midtown West",
+        "state_code": "NY",
+        "lon": -73.98984,
+        "lat": 40.756763,
+        "result_type": "building",
+        "formatted": "11 Times Square, New York, NY 10036, United States of America",
+        "address_line1": "11 Times Square",
+        "address_line2": "New York, NY 10036, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q246+P3",
+        "plus_code_short": "Q246+P3 New York, New York County, United States",
+        "rank": {
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "517311df89597f52c05953e9279cdd604440c00203e2034c6f70656e6164647265737365733a616464726573733a75732f6e792f636974795f6f665f6e65775f796f726b2d6164647265737365732d636974793a35646163396432643136626332633931"
+    }
+},
+{
+    "original_address": "5230 Carroll Canyon Rd, San Diego, CA 92121",
+    "latitude": 32.89154495,
+    "longitude": -117.19454049074594,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "village": "Sorrento Valley",
+        "postcode": "92121",
+        "street": "Carroll Canyon Road",
+        "housenumber": "5230",
+        "lon": -117.19454049074594,
+        "lat": 32.89154495,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "5230 Carroll Canyon Road, San Diego, CA 92121, United States of America",
+        "address_line1": "5230 Carroll Canyon Road",
+        "address_line2": "San Diego, CA 92121, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8544VRR4+J5",
+        "plus_code_short": "VRR4+J5, 92121 San Diego, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.919676994133135,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "511a60f559734c5dc059fc9419251e724040f00102f901f37ae50100000000c00203"
+    }
+},
+{
+    "original_address": "240 W 37th St, New York, NY 10018",
+    "latitude": 40.75342455,
+    "longitude": -73.99104329823928,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Manhattan",
+        "neighbourhood": "Garment District",
+        "street": "West 37th Street",
+        "housenumber": "240",
+        "lon": -73.99104329823928,
+        "lat": 40.75342455,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "240 West 37th Street, New York, NY 10018, United States of America",
+        "address_line1": "240 West 37th Street",
+        "address_line2": "New York, NY 10018, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q235+9H",
+        "plus_code_short": "Q235+9H New York, New York County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51e4b6de406d7f52c0597320353770604440f00102f90137e0cf0f00000000c00203"
+    }
+},
+{
+    "original_address": "905-909 E St NW, Washington, DC 20001",
+    "latitude": 38.896214,
+    "longitude": -77.0241904695795,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "postcode": "20001",
+        "district": "Ward 2",
+        "suburb": "Penn Quarter",
+        "street": "E Street Northwest",
+        "housenumber": "905",
+        "lon": -77.0241904695795,
+        "lat": 38.896214,
+        "state_code": "DC",
+        "result_type": "building",
+        "formatted": "905 E Street Northwest, Washington, DC 20001, United States of America",
+        "address_line1": "905 E Street Northwest",
+        "address_line2": "Washington, DC 20001, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C4VXWG+F8",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 8.486119779185927,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5101ee2e568c4153c059d21bee23b7724340f00102f9010c99ae1700000000c00203"
+    }
+},
+{
+    "original_address": "9200 W Sunset Blvd, West Hollywood, CA 90069",
+    "latitude": 34.089639,
+    "longitude": -118.393407,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Los Angeles County",
+        "city": "West Hollywood",
+        "postcode": "90069",
+        "suburb": "Sunset Strip",
+        "street": "West Sunset Boulevard",
+        "housenumber": "9200",
+        "lon": -118.393407,
+        "lat": 34.089639,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "9200 West Sunset Boulevard, West Hollywood, CA 90069, United States of America",
+        "address_line1": "9200 West Sunset Boulevard",
+        "address_line2": "West Hollywood, CA 90069, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "85633JQ4+VJ",
+        "plus_code_short": "3JQ4+VJ, 90069 West Hollywood, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 5.594545625219183,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "511ec18d942d995dc0591bb96e4a790b4140f00102f901bc71820900000000c00203"
+    }
+},
+{
+    "original_address": "465 California St, San Francisco, CA 94104",
+    "latitude": 37.79283252,
+    "longitude": -122.40225564,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "city": "San Francisco",
+        "postcode": "94104",
+        "district": "Transbay",
+        "suburb": "South of Market",
+        "street": "California Street",
+        "housenumber": "465",
+        "lon": -122.40225564,
+        "lat": 37.79283252,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "465 California Street, San Francisco, CA 94104, United States of America",
+        "address_line1": "465 California Street",
+        "address_line2": "San Francisco, CA 94104, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "849VQHVX+43",
+        "plus_code_short": "QHVX+43 San Francisco, California, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 7.947566780780423,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "519f9b708ebe995ec059794d38897be54240f00102f90125c9290f00000000c00203"
+    }
+},
+{
+    "original_address": "124 Slade Ave, Pikesville, MD 21208",
+    "latitude": 39.3678542,
+    "longitude": -76.7206082,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Maryland",
+        "county": "Baltimore County",
+        "city": "Pikesville",
+        "postcode": "21208",
+        "district": "Howardsville",
+        "street": "Slade Avenue",
+        "housenumber": "124",
+        "lon": -76.7206082,
+        "lat": 39.3678542,
+        "state_code": "MD",
+        "result_type": "building",
+        "formatted": "124 Slade Avenue, Pikesville, MD 21208, United States of America",
+        "address_line1": "124 Slade Avenue",
+        "address_line2": "Pikesville, MD 21208, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87F5979H+4Q",
+        "plus_code_short": "9H+4Q Pikesville, Baltimore County, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 4.625635220490938,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51af0edb711e2e53c0591e59afd815af4340f00103f9016ddb4eb400000000c00203"
+    }
+},
+{
+    "original_address": "9100 Southwest Fwy, Houston, TX 77074",
+    "latitude": 29.684275,
+    "longitude": -95.534124,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Harris County",
+        "city": "Houston",
+        "postcode": "77074",
+        "street": "Southwest Freeway",
+        "housenumber": "9100",
+        "lon": -95.534124,
+        "lat": 29.684275,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "9100 Southwest Freeway, Houston, TX 77074, United States of America",
+        "address_line1": "9100 Southwest Freeway",
+        "address_line2": "Houston, TX 77074, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "76X6MFM8+P9",
+        "plus_code_short": "MFM8+P9, 77074 Houston, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.410412069745131,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "518f006e162fe257c0596c787aa52caf3d40f00102f901a11d7b0c00000000c00203"
+    }
+},
+{
+    "original_address": "1201 Pennsylvania Ave NW, Washington, DC 20004",
+    "latitude": 38.895982,
+    "longitude": -77.028634,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "postcode": "20004",
+        "district": "Ward 2",
+        "street": "Pennsylvania Avenue Northwest",
+        "housenumber": "1201",
+        "lon": -77.028634,
+        "lat": 38.895982,
+        "state_code": "DC",
+        "result_type": "building",
+        "formatted": "1201 Pennsylvania Avenue Northwest, Washington, DC 20004, United States of America",
+        "address_line1": "1201 Pennsylvania Avenue Northwest",
+        "address_line2": "Washington, DC 20004, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C4VXWC+9G",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 8.24223883362403,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "516f63b323d54153c059ffe6c589af724340f00103f9019d0d19b200000000c00203"
+    }
+},
+{
+    "original_address": "1015 18th St NW, Washington, DC 20036",
+    "latitude": 38.90278671428571,
+    "longitude": -77.04157714285714,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "postcode": "20036",
+        "district": "Ward 2",
+        "neighbourhood": "Golden Triangle",
+        "street": "18th Street Northwest",
+        "housenumber": "1015",
+        "lon": -77.04157714285714,
+        "lat": 38.90278671428571,
+        "state_code": "DC",
+        "result_type": "building",
+        "formatted": "1015 18th Street Northwest, Washington, DC 20036, United States of America",
+        "address_line1": "1015 18th Street Northwest",
+        "address_line2": "Washington, DC 20036, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C4WX35+49",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 8.077767903263386,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5148352d33a94253c0596a8fda838e734340f00102f901ffa4ca2200000000c00203"
+    }
+},
+{
+    "original_address": "1000 Town Center Dr, Oxnard, CA 93036",
+    "latitude": 34.2430217,
+    "longitude": -119.181846,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Champion Law Group",
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Ventura County",
+        "city": "Oxnard",
+        "postcode": "93036",
+        "street": "Town Center Drive",
+        "housenumber": "1000",
+        "lon": -119.181846,
+        "lat": 34.2430217,
+        "state_code": "CA",
+        "result_type": "amenity",
+        "formatted": "Champion Law Group, 1000 Town Center Drive, Oxnard, CA 93036, United States of America",
+        "address_line1": "Champion Law Group",
+        "address_line2": "1000 Town Center Drive, Oxnard, CA 93036, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "85626RV9+67",
+        "plus_code_short": "6RV9+67 Oxnard, Ventura County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 2.7886160457604756,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "inner_part"
+        },
+        "place_id": "5123ba675da3cb5dc059f2dbc6551b1f4140f00103f901bcced23d01000000c002019203124368616d70696f6e204c61772047726f7570"
+    }
+},
+{
+    "original_address": "135 Fifth Ave, New York, NY 10010",
+    "latitude": 40.7396471,
+    "longitude": -73.99054937973273,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10010",
+        "district": "Manhattan",
+        "neighbourhood": "Flatiron District",
+        "street": "5th Avenue",
+        "housenumber": "135",
+        "lon": -73.99054937973273,
+        "lat": 40.7396471,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "135 5th Avenue, New York, NY 10010, United States of America",
+        "address_line1": "135 5th Avenue",
+        "address_line2": "New York, NY 10010, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8P2Q5+VQ",
+        "plus_code_short": "P2Q5+VQ New York, New York County, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 8.374687997555206,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "519cc13929657f52c059668a94c1ac5e4440f00102f901edfbd30e00000000c00203"
+    }
+},
+{
+    "original_address": "15565 Northland Dr, Southfield, MI 48075",
+    "latitude": 42.44807212315175,
+    "longitude": -83.20151447131393,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Michigan",
+        "county": "Oakland County",
+        "city": "Southfield",
+        "postcode": "48075",
+        "street": "Northland Drive",
+        "housenumber": "15565",
+        "lon": -83.20151447131393,
+        "lat": 42.44807212315175,
+        "state_code": "MI",
+        "result_type": "building",
+        "formatted": "15565 Northland Drive, Southfield, MI 48075, United States of America",
+        "address_line1": "15565 Northland Drive",
+        "address_line2": "Southfield, MI 48075, United States of America",
+        "timezone": {
+            "name": "America/Detroit",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "86JRCQXX+69",
+        "plus_code_short": "CQXX+69 Southfield, Oakland County, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.144104345291706,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51b3fdf39ce5cc54c059d197656d5a394540f00102f9010177840000000000c00203"
+    }
+},
+{
+    "original_address": "385 Inverness Pkwy, Englewood, CO 80112",
+    "latitude": 39.563148,
+    "longitude": -104.866845,
+    "geoapify_response": {
+        "country_code": "us",
+        "housenumber": "385",
+        "street": "Inverness Parkway",
+        "country": "United States",
+        "county": "Douglas County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "80112",
+        "state": "Colorado",
+        "city": "Englewood",
+        "state_code": "CO",
+        "lon": -104.866845,
+        "lat": 39.563148,
+        "result_type": "building",
+        "formatted": "385 Inverness Parkway, Englewood, CO 80112, United States of America",
+        "address_line1": "385 Inverness Parkway",
+        "address_line2": "Englewood, CO 80112, United States of America",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-06:00",
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FQH47M+77",
+        "plus_code_short": "H47M+77, 80112 Englewood, United States",
+        "rank": {
+            "popularity": 4.23864274007911,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51df6c73637a375ac0596667d13b15c84340c00203e203466f70656e6164647265737365733a616464726573733a75732f636f2f7374617465776964652d6164647265737365732d73746174653a30636336356364666264383930316165"
+    }
+},
+{
+    "original_address": "51 University St, Seattle, WA 98101",
+    "latitude": 47.6061189,
+    "longitude": -122.339559,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Washington",
+        "county": "King County",
+        "city": "Seattle",
+        "postcode": "98101",
+        "district": "West Edge",
+        "suburb": "Belltown",
+        "street": "University Street",
+        "housenumber": "51",
+        "lon": -122.339559,
+        "lat": 47.6061189,
+        "state_code": "WA",
+        "result_type": "building",
+        "formatted": "51 University Street, Seattle, WA 98101, United States of America",
+        "address_line1": "51 University Street",
+        "address_line2": "Seattle, WA 98101, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "84VVJM46+C5",
+        "plus_code_short": "46+C5 Seattle, King County, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 7.609934716788525,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "51ff03ac55bb955ec059667eda4d95cd4740f00103f901d9074e8f00000000c00203"
+    }
+},
+{
+    "original_address": "15291-15327 NW 60th Ave, Miami Lakes, FL 33014",
+    "latitude": 25.909904,
+    "longitude": -80.299249,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Northwest 60th Avenue @ Miami Lakes Drive",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Florida",
+        "county": "Miami-Dade County",
+        "city": "Miami Lakes",
+        "postcode": "33014",
+        "street": "Northwest 60th Avenue",
+        "lon": -80.299249,
+        "lat": 25.909904,
+        "state_code": "FL",
+        "result_type": "amenity",
+        "formatted": "Northwest 60th Avenue @ Miami Lakes Drive, Northwest 60th Avenue, Miami Lakes, FL 33014, United States of America",
+        "address_line1": "Northwest 60th Avenue @ Miami Lakes Drive",
+        "address_line2": "Northwest 60th Avenue, Miami Lakes, FL 33014, United States of America",
+        "category": "public_transport.bus",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76QXWP52+X8",
+        "plus_code_short": "52+X8 Miami Lakes, Miami-Dade County, United States",
+        "rank": {
+            "importance": 0.10000999999999996,
+            "popularity": 4.403673048805314,
+            "confidence": 0.5,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "match_type": "inner_part"
+        },
+        "place_id": "51161747e5261354c059e57ff277efe83940f00103f9011585f73d00000000c002019203294e6f727468776573742036307468204176656e75652040204d69616d69204c616b6573204472697665"
+    }
+},
+{
+    "original_address": "11811 N Tatum Blvd, Phoenix, AZ 85028",
+    "latitude": 33.59459875,
+    "longitude": -111.97937855174783,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arizona",
+        "county": "Maricopa County",
+        "city": "Phoenix",
+        "postcode": "85028",
+        "district": "Village Fairways",
+        "street": "North Tatum Boulevard",
+        "housenumber": "11811",
+        "lon": -111.97937855174783,
+        "lat": 33.59459875,
+        "state_code": "AZ",
+        "result_type": "building",
+        "formatted": "11811 North Tatum Boulevard, Phoenix, AZ 85028, United States of America",
+        "address_line1": "11811 North Tatum Boulevard",
+        "address_line2": "Phoenix, AZ 85028, United States of America",
+        "category": "building.commercial",
+        "timezone": {
+            "name": "America/Phoenix",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-07:00",
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MST"
+        },
+        "plus_code": "855CH2VC+R6",
+        "plus_code_short": "H2VC+R6, 85028 Phoenix, United States",
+        "rank": {
+            "importance": 0.31001,
+            "popularity": 4.178689303174912,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "514a8a6023aefe5bc0590abfd4cf1bcc4040f00102f9016727eb0300000000c00203"
+    }
+},
+{
+    "original_address": "21 W 46th St, New York, NY 10036",
+    "latitude": 40.7566373,
+    "longitude": -73.9801013,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10036",
+        "district": "Manhattan",
+        "neighbourhood": "Theater District",
+        "street": "West 46th Street",
+        "housenumber": "21",
+        "lon": -73.9801013,
+        "lat": 40.7566373,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "21 West 46th Street, New York, NY 10036, United States of America",
+        "address_line1": "21 West 46th Street",
+        "address_line2": "New York, NY 10036, United States of America",
+        "category": "sport.fitness.fitness_centre",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8Q249+MX",
+        "plus_code_short": "Q249+MX New York, New York County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "511891cdfab97e52c0598537b57dd9604440f00103f90194a8d4a601000000c00203"
+    }
+},
+{
+    "original_address": "11 E 26th St, New York, NY 10010",
+    "latitude": 40.74342125,
+    "longitude": -73.98724638366326,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10010",
+        "district": "Manhattan",
+        "neighbourhood": "NoMad",
+        "street": "East 26th Street",
+        "housenumber": "11",
+        "lon": -73.98724638366326,
+        "lat": 40.74342125,
+        "state_code": "NY",
+        "result_type": "building",
+        "formatted": "11 East 26th Street, New York, NY 10010, United States of America",
+        "address_line1": "11 East 26th Street",
+        "address_line2": "New York, NY 10010, United States of America",
+        "category": "building",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST": "-04:00",
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8P2V7+94",
+        "plus_code_short": "P2V7+94 New York, New York County, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 8.615793062435909,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "5164bb740b2f7f52c05962f3716d285f4440f00102f901225fca0e00000000c00203"
+    }
+},
+{
+    "original_address": "17330 Preston Rd, Dallas, TX 75252",
+    "latitude": 32.987411151738044,
+    "longitude": -96.80327001401895,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "17330",
+        "lon": -96.80327001401895,
+        "lat": 32.987411151738044,
+        "state_code": "TX",
+        "result_type": "building",
+        "formatted": "17330 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "17330 Preston Road",
+        "address_line2": "Dallas, TX 75252, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST": "-05:00",
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5PW+XM",
+        "plus_code_short": "X5PW+XM, 75252 Dallas, United States",
+        "rank": {
+            "importance": -0.8399999999999999,
+            "popularity": 4.985648833211085,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "516804a2c6683358c059d635167d637e4040f00102f90113ee732400000000c00203"
+    }
+},
+{
+    "original_address": "3131 S Vaughn Way, Aurora, CO 80014",
+    "latitude": 39.6604856,
+    "longitude": -104.837146,
+    "geoapify_response": {
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "county": "Arapahoe County",
+        "city": "Aurora",
+        "postcode": "80014",
+        "street": "South Vaughn Way",
+        "housenumber": "3131",
+        "lon": -104.837146,
+        "lat": 39.6604856,
+        "state_code": "CO",
+        "result_type": "building",
+        "formatted": "3131 South Vaughn Way, Aurora, CO 80014, United States of America",
+        "address_line1": "3131 South Vaughn Way",
+        "address_line2": "Aurora, CO 80014, United States of America",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST": "-06:00",
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FQM567+54",
+        "plus_code_short": "M567+54, 80014 Aurora, United States",
+        "rank": {
+            "importance": 0.41000999999999993,
+            "popularity": 4.353114172142345,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "confidence_street_level": 1,
+            "confidence_building_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "518bfed0cc93355ac0594ebdc9ca8ad44340f00103f901de6e37c902000000c00203"
+    }
+}]
