@@ -9,10 +9,12 @@ L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x
 async function readJsonFile(filePath) {
     try {
         const response = await fetch(filePath);
+        console.log(response)
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const jsonData = await response.json();
+        console.log(jsonData)
         return jsonData;
     } catch (error) {
         console.error('Error reading JSON file:', error);
@@ -22,12 +24,13 @@ async function readJsonFile(filePath) {
 
 async function processJson(filename) {
     const data = await readJsonFile(filename);
+    console.log(data)
+
     if (data && Array.isArray(data)) {
         console.log("JSON Data Loaded:", data); // Debug: Check loaded data
         data.forEach(point => {
-            if (point && typeof point.lat === 'number' && typeof point.long === 'number') {
-                console.log('plotted point:', point.lat, point.long); // Debug: Check plotted points
-                L.circleMarker([point.lat, point.long], {
+            if (point && typeof point.latitude === 'number' && typeof point.longitude === 'number') {
+                L.circleMarker([point.latitude, point.longitude], {
                     color: 'red',
                     fillColor: '#f03',
                     fillOpacity: 0.5,
@@ -42,4 +45,4 @@ async function processJson(filename) {
     }
 }
 
-processJson('points.json');
+processJson('leasing_data.json');
