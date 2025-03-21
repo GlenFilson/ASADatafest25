@@ -1,6 +1,1 @@
-# Exclude info about data
-INFO
-#Exclude datasets
-*.csv
-#Exclude codebook
-Codebook_3_18.xlsx
+
