@@ -28,14 +28,20 @@ async function processJson(filename) {
 
     if (data && Array.isArray(data)) {
         console.log("JSON Data Loaded:", data); // Debug: Check loaded data
+
         data.forEach(point => {
             if (point && typeof point.latitude === 'number' && typeof point.longitude === 'number') {
-                L.circleMarker([point.latitude, point.longitude], {
-                    color: 'red',
-                    fillColor: '#f03',
-                    fillOpacity: 0.5,
-                    radius: 4
-                }).addTo(map);
+                points.forEach(p => {
+                    if (p.latitude == point.latitude && p.longitude == point.longitude) {
+
+                    }
+                })
+                // L.circleMarker([point.latitude, point.longitude], {
+                //     color: 'red',
+                //     fillColor: '#f03',
+                //     fillOpacity: 0.5,
+                //     radius: 4
+                // }).addTo(map);
             } else {
                 console.warn("Invalid point data:", point);
             }
