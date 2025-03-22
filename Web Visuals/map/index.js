@@ -27,6 +27,33 @@ let interval
 let quarter_active_index = 0;
 let markers = []; // Array to store markers for clearing
 
+function generateNoise(value, magnitude = 0.0005) {
+    const noised_value = value + (Math.random() * magnitude * 2 - magnitude);
+    return noised_value;
+}
+
+function groupData(data) {
+    const grouped = {};
+
+    data.forEach(entry => {
+        const key = entry.company_name || "Unknown"; // Use "Unknown" for null values
+
+        if (!grouped[key]) {
+            grouped[key] = {
+                'lat': entry.lat,
+                'long': entry.long,
+                'leases': []
+            };
+        }
+
+        grouped[key]['leases'].push(entry);
+    });
+
+    return grouped;
+}
+
+
+
 async function mapController(filename) {
     const data = await readJsonFile(filename);
     if (!data) return;
@@ -45,7 +72,6 @@ async function mapController(filename) {
     };
 
     const update_map = (i) => {
-        quarter_active_index = i
         set_active(i);
 
         // Clear existing markers from the map
@@ -54,20 +80,32 @@ async function mapController(filename) {
 
         // Plot new points on the map
         data[quarters[i]].forEach(point => {
-            console.log(point);
+            const grouped = groupData(point.leases)
+            const companies = Object.keys(grouped)
 
-            if (point.lat && point.long) {  // Ensure lat/lon exist
-                const marker = L.circleMarker([point.lat, point.long], {
-                    radius: 3 + point.leases.length * .2,
-                    color: 'red',
-                    fillColor: 'red',
-                    fillOpacity: 0.8
+            companies.forEach(company => {
+                // switch to view
+                const datapoint = grouped[company]
+
+                let stays = 0
+
+                datapoint.leases.forEach(lease => {
+                    if (lease.type == 'Renewal') stays += 1
+                })
+
+                let gos = datapoint.leases.length - stays
+
+                const marker = L.circleMarker([datapoint.lat, datapoint.long], {
+                    radius: 3 + datapoint.leases.length * .2,
+                    color: stays > gos ? 'red' : 'gray',
+                    colorOpacity: 0.1,
+                    fillColor: stays > gos ? 'red' : 'gray',
+                    fillOpacity: stays > gos ? 1 : 0.2,
+                    weight: 0 
+
                 }).addTo(map);
-
                 markers.push(marker);
-            } else {
-                console.warn("Missing lat/lon for point:", point);
-            }
+            })
         });
     };
 
@@ -77,13 +115,11 @@ async function mapController(filename) {
         pause.classList.remove('active')
         play.classList.add('active')
 
-        quarter_active_index = 0
-
         interval = setInterval(() => {
             update_map(quarter_active_index)
             quarter_active_index += 1
-            if (quarter_active_index >= 27) clearInterval(interval)
-        }, 1000)
+            if (quarter_active_index >= 27) quarter_active_index = 0
+        }, 300)
 
         pause.onclick = () => clearInterval(interval)
     }
@@ -97,13 +133,22 @@ async function mapController(filename) {
         }
 
         button.innerText = quarter.slice(2);
-        button.onclick = () => update_map(index);
+        button.onclick = () => {
+            quarter_active_index = index
+            update_map(quarter_active_index)
+        };
 
         quarter_buttons.append(button);
+
+        // add noise to all data points to begin with
+        console.log('noisy')
+        data[quarter].forEach(datapoint => {
+            datapoint.leases.forEach(lease => {
+                lease.lat = generateNoise(lease.lat)
+                lease.long = generateNoise(lease.long)
+            })
+        })
     });
-
-    console.log(Object.keys(data));
-
     // Initialize with the first quarter
     update_map(quarter_active_index);
 }
