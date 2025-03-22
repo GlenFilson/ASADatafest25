@@ -97,9 +97,9 @@ async function mapController(filename) {
 
                 const marker = L.circleMarker([datapoint.lat, datapoint.long], {
                     radius: 3 + datapoint.leases.length * .2,
-                    color: stays > gos ? 'red' : 'gray',
+                    color: stays > gos ? 'red' : 'green',
                     colorOpacity: 0.1,
-                    fillColor: stays > gos ? 'red' : 'gray',
+                    fillColor: stays > gos ? 'red' : 'green',
                     fillOpacity: stays > gos ? 1 : 0.2,
                     weight: 0 
 
