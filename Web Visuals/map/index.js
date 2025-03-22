@@ -9,12 +9,10 @@ L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x
 async function readJsonFile(filePath) {
     try {
         const response = await fetch(filePath);
-        console.log(response)
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const jsonData = await response.json();
-        console.log(jsonData)
         return jsonData;
     } catch (error) {
         console.error('Error reading JSON file:', error);
@@ -22,33 +20,92 @@ async function readJsonFile(filePath) {
     }
 }
 
-async function processJson(filename) {
+const quarter_buttons = document.getElementById('quarters');
+const play = document.getElementById('play')
+const pause = document.getElementById('pause')
+let interval
+let quarter_active_index = 0;
+let markers = []; // Array to store markers for clearing
+
+async function mapController(filename) {
     const data = await readJsonFile(filename);
-    console.log(data)
+    if (!data) return;
 
-    if (data && Array.isArray(data)) {
-        console.log("JSON Data Loaded:", data); // Debug: Check loaded data
+    const quarters = Object.keys(data);
+    quarter_buttons.innerHTML = '';
 
-        data.forEach(point => {
-            if (point && typeof point.latitude === 'number' && typeof point.longitude === 'number') {
-                points.forEach(p => {
-                    if (p.latitude == point.latitude && p.longitude == point.longitude) {
-
-                    }
-                })
-                // L.circleMarker([point.latitude, point.longitude], {
-                //     color: 'red',
-                //     fillColor: '#f03',
-                //     fillOpacity: 0.5,
-                //     radius: 4
-                // }).addTo(map);
+    const set_active = (i) => {
+        Array.from(quarter_buttons.children).forEach((child, child_i) => {
+            if (child_i === i) {
+                child.classList.add('active');
             } else {
-                console.warn("Invalid point data:", point);
+                child.classList.remove('active');
             }
         });
-    } else {
-        console.error("Invalid JSON data or not an array.");
+    };
+
+    const update_map = (i) => {
+        quarter_active_index = i
+        set_active(i);
+
+        // Clear existing markers from the map
+        markers.forEach(marker => map.removeLayer(marker));
+        markers = [];
+
+        // Plot new points on the map
+        data[quarters[i]].forEach(point => {
+            console.log(point);
+
+            if (point.lat && point.long) {  // Ensure lat/lon exist
+                const marker = L.circleMarker([point.lat, point.long], {
+                    radius: 3 + point.leases.length * .2,
+                    color: 'red',
+                    fillColor: 'red',
+                    fillOpacity: 0.8
+                }).addTo(map);
+
+                markers.push(marker);
+            } else {
+                console.warn("Missing lat/lon for point:", point);
+            }
+        });
+    };
+
+    play.onclick = () => {
+        if (interval) clearInterval(interval)
+
+        pause.classList.remove('active')
+        play.classList.add('active')
+
+        quarter_active_index = 0
+
+        interval = setInterval(() => {
+            update_map(quarter_active_index)
+            quarter_active_index += 1
+            if (quarter_active_index >= 27) clearInterval(interval)
+        }, 1000)
+
+        pause.onclick = () => clearInterval(interval)
     }
+
+    quarters.forEach((quarter, index) => {
+        const button = document.createElement('div');
+        button.classList.add('button');
+
+        if (index === quarter_active_index) {
+            button.classList.add('active');
+        }
+
+        button.innerText = quarter.slice(2);
+        button.onclick = () => update_map(index);
+
+        quarter_buttons.append(button);
+    });
+
+    console.log(Object.keys(data));
+
+    // Initialize with the first quarter
+    update_map(quarter_active_index);
 }
 
-processJson('leasing_data.json');
+mapController('map_points.json');

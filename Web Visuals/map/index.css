@@ -1,9 +1,72 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 #map {
     width: 100vw;
     height: 100vh;
+}
+
+.actions_tray {
+    position: fixed;
+    top: 0;
+    padding: 2rem;
+    display: flex;
+    z-index: 1000;
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+    gap: .5rem;
+    /* justify-content: space-between; */
+}
+.left, .right {
+    display: flex;
+    flex-direction: row;
+    gap: .5rem;
+}
+
+.button {
+    padding: .5rem .5rem;
+    background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    transition: .3s;
+    opacity: 1;
+    stroke: black;
+}
+
+.actions_tray .button{
+    padding: .5rem 1rem;
+}
+
+
+.buttons_tray {
+    position: fixed;
+    bottom: 0;
+    padding: 2rem;
+    display: flex;
+    z-index: 1000;
+    flex-direction: row;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: .5rem;
+    font-size: .9rem;
+}
+
+
+
+.button:hover {
+    opacity: .8;
+}
+.button.active {
+    background-color: teal;
+    color: white;
+    stroke: white;
 }
