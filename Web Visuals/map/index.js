@@ -6,6 +6,15 @@ L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x
     maxZoom: 19
 }).addTo(map);
 
+var openrailwaymap = new L.TileLayer('http://{s}.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png',
+    {
+        attribution: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a>, Style: <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA 2.0</a> <a href="http://www.openrailwaymap.org/">OpenRailwayMap</a> and OpenStreetMap',
+        minZoom: 2,
+        maxZoom: 19,
+        tileSize: 256,
+        opacity: 0.25 // Set opacity to 0.5 (adjust as needed)
+    }).addTo(map);
+
 async function readJsonFile(filePath) {
     try {
         const response = await fetch(filePath);
@@ -86,21 +95,22 @@ async function mapController(filename) {
             companies.forEach(company => {
                 // switch to view
                 const datapoint = grouped[company]
+                let important_count = 0
 
-                let stays = 0
+                console.log(datapoint)
 
                 datapoint.leases.forEach(lease => {
-                    if (lease.type == 'Renewal') stays += 1
+                    if (lease.industry == 'Construction, Engineering and Architecture') important_count += 1
                 })
 
-                let gos = datapoint.leases.length - stays
+                let not_important = datapoint.leases.length - important_count
 
                 const marker = L.circleMarker([datapoint.lat, datapoint.long], {
-                    radius: 3 + datapoint.leases.length * .2,
-                    color: stays > gos ? 'red' : 'green',
+                    radius: 6 + datapoint.leases.length * .2,
+                    color: important_count > not_important ? 'red' : 'gray',
                     colorOpacity: 0.1,
-                    fillColor: stays > gos ? 'red' : 'green',
-                    fillOpacity: stays > gos ? 1 : 0.2,
+                    fillColor: important_count > not_important ? 'red' : 'gray',
+                    fillOpacity: important_count > not_important ? 1 : .25,
                     weight: 0 
 
                 }).addTo(map);
@@ -153,4 +163,4 @@ async function mapController(filename) {
     update_map(quarter_active_index);
 }
 
-mapController('map_points.json');
+mapController('old_map_points.json');
